@@ -1,0 +1,749 @@
+.real-estate,
+.real-estate * {
+  box-sizing: border-box;
+}
+.real-estate {
+  background: #ffffff;
+  max-width: 1724px;
+  width: 1724px;
+  height: 2080px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-63 {
+  position: absolute;
+  left: 0px;
+  top: 122px;
+  overflow: hidden;
+}
+.instagram {
+  color: #ffffff;
+  text-align: left;
+  font: 600 16px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 1217.57px;
+  top: 2634.87px;
+  width: 200px;
+  height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-119 {
+  position: absolute;
+  left: -2px;
+  top: 349.7px;
+  overflow: hidden;
+  
+}
+.image-68 {
+  width: 1724px;
+  height: 1082px;
+  position: absolute;
+  left: 0px;
+  top: 122px;
+  overflow: hidden;
+}
+.rectangle-87 {
+  background: #1d5c2f;
+  width: 1724px;
+  height: 969px;
+  position: absolute;
+  left: 0px;
+  top: 888px;
+  overflow: hidden;
+}
+.image-55 {
+  width: 1656px;
+  height: 894px;
+  position: absolute;
+  left: 34px;
+  top: 928px;
+  
+}
+.rectangle-88 {
+  position: absolute;
+  left: 34px;
+  top: 928px;
+  width:1656px;
+  overflow: hidden;
+  
+}
+.rectangle-89 {
+  background: #acb594;
+  width: 263px;
+  height: 30px;
+  position: absolute;
+  left: 196px;
+  top: 308px;
+}
+.rectangle-872 {
+  
+  border-radius: 40px;
+  border-style: solid;
+  border-color: #f4f3d7;
+  border-width: 2px;
+  width: 498px;
+  height: 60px;
+  position: absolute;
+  left: 600px;
+  top: 1726px;
+}
+.discover-your-future-home {
+  color: #ffffff;
+  text-align: left;
+  font: 700 28px/65.5px "Jost", sans-serif;
+  position: absolute;
+  left: 640px;
+  top: 1725px;
+  width: 626px;
+  height: 61px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-52 {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.1) 0%,
+    rgba(0, 0, 0, 0.01) 14.929850399494171%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  width: 1724px;
+  height: 133px;
+  position: absolute;
+  left: 0px;
+  top: 122px;
+}
+.rectangle-90 {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.1) 0%,
+    rgba(0, 0, 0, 0.01) 14.929850399494171%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  width: 1724px;
+  height: 133px;
+  position: absolute;
+  left: 0px;
+  top: 122px;
+}
+.footer {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-38 {
+  position: absolute;
+  left: 0px;
+  top: 1857px;
+  overflow: hidden;
+}
+.lyonville {
+  color: #f4f3d8;
+  text-align: left;
+  font: 600 24px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 93.26px;
+  top: 1880.13px;
+  width: 97.83px;
+  height: 54.67px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.calender-events {
+  color: #f4f3d8;
+  text-align: left;
+  font: 600 24px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 315px;
+  top: 1880px;
+  width: 198px;
+  height: 55px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.community-pages {
+  color: #f4f3d8;
+  text-align: left;
+  font: 600 24px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 752px;
+  top: 1883px;
+  width: 196.57px;
+  height: 46.26px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.get-in-contact {
+  color: #f4f3d8;
+  text-align: left;
+  font: 600 24px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 1215px;
+  top: 1880px;
+  width: 198.4px;
+  height: 53.62px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.feedback-and-ideas {
+  color: #ffffff;
+  text-align: left;
+  font: 600 16px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 1217.57px;
+  top: 1926.87px;
+  width: 150px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.about-lyonville {
+  color: #ffffff;
+  text-align: left;
+  font: 600 16px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 93.26px;
+  top: 1911.67px;
+  width: 140.8px;
+  height: 65.19px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.getting-there {
+  color: #ffffff;
+  text-align: left;
+  font: 600 16px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 93px;
+  top: 1938px;
+  width: 141px;
+  height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.open-garden-day {
+  color: #ffffff;
+  text-align: left;
+  font: 600 16px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 315px;
+  top: 1910px;
+  width: 140.8px;
+  height: 65.19px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.woodchop {
+  color: #ffffff;
+  text-align: left;
+  font: 600 16px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 315px;
+  top: 1937.34px;
+  width: 140.8px;
+  height: 65.19px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.bakeoff {
+  color: #ffffff;
+  text-align: left;
+  font: 600 16px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 315px;
+  top: 1963.62px;
+  width: 140.8px;
+  height: 65.19px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.caf-de-lyonville {
+  color: #ffffff;
+  text-align: left;
+  font: 600 16px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 475px;
+  top: 1910px;
+  width: 131px;
+  height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.radio-springs-hotel {
+  color: #ffffff;
+  text-align: left;
+  font: 600 16px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 475px;
+  top: 1937px;
+  width: 152px;
+  height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.hepburn-shire {
+  color: #ffffff;
+  text-align: left;
+  font: 600 16px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 949.11px;
+  top: 1910.67px;
+  width: 140.8px;
+  height: 65.19px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.community-newsletter {
+  color: #ffffff;
+  text-align: left;
+  font: 600 16px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 752px;
+  top: 1937px;
+  width: 181.03px;
+  height: 65.19px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.landcare {
+  color: #ffffff;
+  text-align: left;
+  font: 600 16px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 949.11px;
+  top: 1963.24px;
+  width: 181.03px;
+  height: 65.19px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.rail-updates {
+  color: #ffffff;
+  text-align: left;
+  font: 600 16px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 752px;
+  top: 1964px;
+  width: 181.03px;
+  height: 65.19px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.fireguard {
+  color: #ffffff;
+  text-align: left;
+  font: 600 16px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 949.11px;
+  top: 1936.96px;
+  width: 140.8px;
+  height: 65.19px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.community-pages2 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 16px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 752px;
+  top: 1911px;
+  width: 140.8px;
+  height: 65.19px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.the-artful-meadows {
+  color: #ffffff;
+  text-align: left;
+  font: 600 16px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 475px;
+  top: 1964px;
+  width: 195px;
+  height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.history {
+  color: #ffffff;
+  text-align: left;
+  font: 600 16px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 93.26px;
+  top: 1964.24px;
+  width: 140.8px;
+  height: 65.19px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.weather {
+  color: #ffffff;
+  text-align: left;
+  font: 600 16px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 93.26px;
+  top: 1990.53px;
+  width: 140.8px;
+  height: 65.19px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.facebook {
+  color: #ffffff;
+  text-align: left;
+  font: 600 16px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 1217.57px;
+  top: 1936.87px;
+  width: 116.11px;
+  height: 65.19px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-10 {
+  border-radius: 1000px;
+  width: 121px;
+  height: 114px;
+  position: absolute;
+  left: 1520px;
+  top: 1912px;
+}
+.group-159 {
+  width: 24px;
+  height: 134px;
+  position: static;
+}
+.vector {
+  position: absolute;
+  left: 1670px;
+  top: 1905px;
+  overflow: hidden;
+}
+.instagram-1 {
+  position: absolute;
+  left: 1662px;
+  top: 1982px;
+  transform: translate(0px, -24px);
+  overflow: hidden;
+}
+.facebook-f-1 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 1662px;
+  top: 2015px;
+  overflow: hidden;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.twitter-1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.rectangle-77 {
+  position: absolute;
+  left: 893px;
+  top: 325px;
+  width: 831px;
+  overflow: hidden;
+  
+}
+.real-estate2 {
+  color: #000000;
+  text-align: left;
+  font: 700 64px/100px "Roboto", sans-serif;
+  position: absolute;
+  left: 108px;
+  top: 180px;
+  width: 913px;
+  height: 184px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.living-in-lyonville {
+  color: #000000;
+  text-align: left;
+  font: 600 64px/100px "Roboto", sans-serif;
+  position: absolute;
+  left: 175px;
+  top: 355px;
+  width: 685px;
+  height: 124px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-169 {
+  position: absolute;
+  inset: 0;
+}
+.group-161 {
+  width: 1724px;
+  height: 135px;
+  position: static;
+}
+.rectangle-64 {
+  position: absolute;
+  left: 0px;
+  top: 122px;
+  transform: translate(0px, -122px);
+  overflow: hidden;
+}
+.group-155 {
+  width: 978.14px;
+  height: 40.29px;
+  position: static;
+}
+.things-to-do {
+  color: #414730;
+  text-align: left;
+  font: 600 25px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 904.14px;
+  top: 50.33px;
+  width: 180px;
+  height: 37px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.history2 {
+  color: #414730;
+  text-align: left;
+  font: 600 25px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 706px;
+  top: 50px;
+  width: 87.55px;
+  height: 37.62px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about-lyonville2 {
+  color: #414730;
+  text-align: left;
+  font: 600 25px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 106px;
+  top: 47.33px;
+  width: 253px;
+  height: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.lyonville2 {
+  color: #8a946e;
+  text-align: left;
+  font: 600 48px "Open Sans", sans-serif;
+  position: absolute;
+  left: 1415px;
+  top: 35px;
+  width: 300px;
+  height: 100px;
+}
+.getting-there2 {
+  color: #414730;
+  text-align: left;
+  font: 600 25px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 428px;
+  top: 48.33px;
+  width: 293px;
+  height: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-176 {
+  width: 1724px;
+  height: 135px;
+  position: static;
+}
+.group-168 {
+  width: 1724px;
+  height: 135px;
+  position: static;
+}
+.group-1692 {
+  width: 1724px;
+  height: 135px;
+  position: static;
+}
+.rectangle-642 {
+  position: absolute;
+  left: 0px;
+  top: 122px;
+  transform: translate(0px, -122px);
+  overflow: hidden;
+}
+.group-1552 {
+  width: 912.14px;
+  height: 40.29px;
+  position: static;
+}
+.things-to-do2 {
+  color: #414730;
+  text-align: left;
+  font: 600 25px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 901.14px;
+  top: 50.33px;
+  width: 180px;
+  height: 37px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.history3 {
+  color: #414730;
+  text-align: left;
+  font: 600 25px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 714px;
+  top: 50px;
+  width: 87.55px;
+  height: 37.62px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about-lyonville3 {
+  color: #414730;
+  text-align: left;
+  font: 600 25px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 169px;
+  top: 47.33px;
+  width: 253px;
+  height: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.getting-there3 {
+  color: #414730;
+  text-align: left;
+  font: 600 25px/100px "Jost", sans-serif;
+  position: absolute;
+  left: 453px;
+  top: 48.33px;
+  width: 293px;
+  height: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-171 {
+  width: 50px;
+  height: 47px;
+  position: static;
+}
+.ellipse-23 {
+  background: #acb594;
+  border-radius: 50%;
+  width: 50px;
+  height: 47px;
+  position: absolute;
+  left: 69px;
+  top: 40px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.ellipse-24 {
+  background: #414730;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 0.2px;
+  width: 22px;
+  height: 8px;
+  position: absolute;
+  left: 83px;
+  top: 49px;
+}
+.ellipse-25 {
+  background: #414730;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 0.2px;
+  width: 22px;
+  height: 8px;
+  position: absolute;
+  left: 83px;
+  top: 59px;
+}
+.ellipse-26 {
+  background: #414730;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 0.2px;
+  width: 22px;
+  height: 8px;
+  position: absolute;
+  left: 83px;
+  top: 69px;
+}
+.discover-the-enchanting-allure-of-lyonville-a-hidden-gem-where-serene-living-meets-modern-comfort-nestled-in-victoria-s-picturesque-landscapes-lyonville-offers-a-perfect-blend-of-rural-tranquility-and-contemporary-convenience-picture-yourself-amidst-historical-landmarks-savoring-local-flavors-and-exploring-lush-forests-with-a-vibrant-community-rich-history-and-easy-access-to-both-melbourne-and-the-beauty-of-the-great-dividing-range-lyonville-invites-you-to-embrace-a-life-of-balance-inspiration-and-genuine-contentment-welcome-to-a-place-where-every-day-brings-the-extraordinary {
+  color: #000000;
+  text-align: left;
+  font: 400 28px/55px "Roboto", sans-serif;
+  position: absolute;
+  left: 175px;
+  top: 483px;
+  width: 1468px;
+  height: 385px;
+  word-spacing: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
