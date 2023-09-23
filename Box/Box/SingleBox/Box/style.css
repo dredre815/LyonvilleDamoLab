@@ -1,0 +1,83 @@
+.box {
+  height: 328px;
+  width: 400px;
+}
+
+.box .open-garden-day {
+  height: 328px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 404px;
+}
+
+.box .overlap-group {
+  height: 328px;
+  position: relative;
+  width: 400px;
+}
+
+.box .group {
+  height: 328px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 253px;
+}
+
+.box .img {
+  height: 328px;
+  left: 54px;
+  position: absolute;
+  top: 0;
+  width: 347px;
+}
+
+.box .rectangle {
+  border: 2px solid;
+  border-color: #ffffff;
+  border-radius: 40px;
+  height: 57px;
+  left: 53px;
+  position: absolute;
+  top: 249px;
+  width: 295px;
+}
+
+.box .discover-more {
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  height: 58px;
+  left: 107px;
+  letter-spacing: 0;
+  line-height: 65.5px;
+  position: absolute;
+  top: 248px;
+  white-space: nowrap;
+  width: 204px;
+}
+
+.box .image {
+  height: 162px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 66px;
+  width: 323px;
+}
+
+.box .text-wrapper {
+  color: #f4f3d8;
+  font-family: "Roboto", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  height: 70px;
+  left: 66px;
+  letter-spacing: 0;
+  line-height: 49.5px;
+  position: absolute;
+  top: 0;
+  width: 270px;
+}

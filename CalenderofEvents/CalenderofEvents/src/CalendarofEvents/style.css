@@ -1,0 +1,410 @@
+.box {
+  height: 503px;
+  position: relative;
+  width: 1593px;
+}
+
+.box .calendar-of-events {
+  overflow-x: auto;
+  height: 503px;
+  /* left: 0;
+  position: fixed;
+  top: 0;
+  width: 1595px; */
+  position: relative;
+}
+
+
+/* .box .calendar-of-events::-webkit-scrollbar {
+  display: none; 
+}
+
+.box .calendar-of-events {
+  -ms-overflow-style: none;  
+  scrollbar-width: none;   
+} */
+
+
+.box .overlap {
+  height: 469px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  /* width: 1593px; */
+  width: 3040px;
+}
+
+
+
+.new-event-1, .new-event-2, .new-event-3 {
+  position: absolute;
+  height: 331px;
+  width: 404px;
+  top: 138px;
+}
+
+.new-event-1 {
+    left: 1600px;  /* 位于第三个事件板块之后 */
+}
+
+.new-event-2 {
+    left: 2100px;  /* 位于第一个新事件板块之后 */
+}
+
+.new-event-3 {
+    left: 2600px;  /* 位于第二个新事件板块之后 */
+}
+
+
+
+.box .rectangle {
+  height: 39px;
+  left: 701px;
+  position: fixed;
+  top: 62px;
+  width: 892px;
+  /* left:0%;   */
+  /* transform: translateX(-50%); */
+}
+
+.box .overlap-group {
+  height: 469px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 975px;
+}
+
+.box .text-wrapper {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 64px;
+  font-weight: 600;
+  height: 146px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: fixed;
+  top: 0;
+  /* left: 50%;  */
+  /* transform: translateX(-50%); */
+  /* width: 629px; */
+}
+
+.box .events-container {
+    height: 469px;
+    width: auto;
+    overflow-x: auto;
+    white-space: nowrap;
+    position: relative;
+    top: 150px;  /* 调整位置以确保与标题没有重叠 */
+}
+
+.box .open-garden-day {
+  height: 328px;
+  left: 42px;
+  position: absolute;
+  top: 142px;
+  width: 404px;
+}
+
+.box .div {
+  height: 328px;
+  position: relative;
+  width: 400px;
+}
+
+.box .group {
+  height: 328px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 253px;
+}
+
+.box .img {
+  height: 328px;
+  left: 54px;
+  position: absolute;
+  top: 0;
+  width: 347px;
+}
+
+.box .rectangle-2 {
+  border: 2px solid;
+  border-color: #ffffff;
+  border-radius: 40px;
+  height: 57px;
+  left: 53px;
+  position: absolute;
+  top: 249px;
+  width: 295px;
+}
+
+.box .discover-more {
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  height: 58px;
+  left: 107px;
+  letter-spacing: 0;
+  line-height: 65.5px;
+  position: absolute;
+  top: 248px;
+  white-space: nowrap;
+  width: 204px;
+}
+
+.box .image {
+  height: 162px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 66px;
+  width: 323px;
+}
+
+.box .text-wrapper-2 {
+  color: #f4f3d8;
+  font-family: "Roboto", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  height: 70px;
+  left: 66px;
+  letter-spacing: 0;
+  line-height: 49.5px;
+  position: absolute;
+  top: 0;
+  width: 270px;
+}
+
+.box .woodchop {
+  height: 331px;
+  left: 571px;
+  position: absolute;
+  top: 138px;
+  width: 404px;
+}
+
+.box .overlap-2 {
+  height: 331px;
+  position: relative;
+  width: 400px;
+}
+
+.box .group-2 {
+  height: 328px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 253px;
+}
+
+.box .group-3 {
+  height: 328px;
+  left: 54px;
+  position: absolute;
+  top: 4px;
+  width: 347px;
+}
+
+.box .rectangle-3 {
+  border: 2px solid;
+  border-color: #ffffff;
+  border-radius: 40px;
+  height: 57px;
+  left: 53px;
+  position: absolute;
+  top: 253px;
+  width: 295px;
+}
+
+.box .discover-more-2 {
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  height: 58px;
+  left: 108px;
+  letter-spacing: 0;
+  line-height: 65.5px;
+  position: absolute;
+  top: 252px;
+  white-space: nowrap;
+  width: 205px;
+}
+
+.box .image-2 {
+  height: 162px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 323px;
+}
+
+.box .text-wrapper-3 {
+  color: #f4f3d8;
+  font-family: "Roboto", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  height: 70px;
+  left: 130px;
+  letter-spacing: 0;
+  line-height: 49.5px;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.box .bakeoff {
+  height: 331px;
+  left: 1100px;
+  position: absolute;
+  top: 138px;
+  width: 404px;
+}
+
+.box .rectangle-4 {
+  border: 2px solid;
+  border-color: #ffffff;
+  border-radius: 40px;
+  height: 57px;
+  left: 55px;
+  position: absolute;
+  top: 253px;
+  width: 294px;
+}
+
+.box .discover-more-3 {
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  height: 58px;
+  left: 108px;
+  letter-spacing: 0;
+  line-height: 65.5px;
+  position: absolute;
+  top: 252px;
+  white-space: nowrap;
+  width: 204px;
+}
+
+.box .image-3 {
+  height: 162px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 323px;
+}
+
+.box .text-wrapper-4 {
+  color: #f4f3d8;
+  font-family: "Roboto", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  height: 69px;
+  left: 150px;
+  letter-spacing: 0;
+  line-height: 49.5px;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.box .scorll-bar {
+  height: 13px;
+  left: 459px;
+  position: absolute;
+  top: 490px;
+  width: 580px;
+
+  cursor: grab;
+}
+
+.box .scorll-bar:active {
+  cursor: grabbing; /* 当用户按下鼠标时显示一个“正在抓取”的光标 */
+}
+
+
+/* .box .overlap-group-2 {
+  height: 13px;
+  position: relative;
+}
+
+.box .overlap-group-wrapper {
+  height: 13px;
+  left: 140px;
+  position: absolute;
+  top: 0;
+  width: 187px;
+}
+
+.box .ellipse {
+  background-color: #d9d9d9;
+  border-radius: 23.5px/6.5px;
+  height: 13px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 47px;
+}
+
+.box .ellipse-2 {
+  background-color: #d9d9d9;
+  border-radius: 22.5px/6.5px;
+  height: 13px;
+  left: 142px;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.box .rectangle-5 {
+  background-color: #d9d9d9;
+  height: 13px;
+  left: 24px;
+  position: absolute;
+  top: 0;
+  width: 140px;
+} */
+
+/* .box .overlap-wrapper {
+  height: 13px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 580px;
+}
+
+.box .rectangle-6 {
+  background-color: #c3c1c1;
+  height: 13px;
+  left: 20px;
+  position: absolute;
+  top: 0;
+  width: 539px;
+} */
+
+/* .box .ellipse-3 {
+  background-color: #c3c2c2;
+  border-radius: 19.5px/6.5px;
+  height: 13px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 39px;
+}
+
+.box .ellipse-4 {
+  background-color: #c3c2c2;
+  border-radius: 22px/6.5px;
+  height: 13px;
+  left: 536px;
+  position: absolute;
+  top: 0;
+  width: 44px;
+} */
