@@ -1,7 +1,10 @@
+/* Set background, dimensions, position, and overflow for the main .local-business container */
 .local-business,
+/* Set background, dimensions, position, and overflow for the main .local-business container */
 .local-business * {
   box-sizing: border-box;
 }
+/* Set background, dimensions, position, and overflow for the main .local-business container */
 .local-business {
   background: #ffffff;
   width: 1728px;
@@ -9,6 +12,7 @@
   position: relative;
   overflow: hidden;
 }
+/* Style the .lyonville-plan-2021-2025 element with color, font, position, and flex properties */
 .lyonville-plan-2021-2025 {
   color: #ffffff;
   text-align: left;
@@ -22,12 +26,14 @@
   align-items: center;
   justify-content: flex-start;
 }
+/* Position the .rectangle-72 element absolutely within the .local-business container */
 .rectangle-72 {
   position: absolute;
   left: 0px;
   top: 88px;
   overflow: visible;
 }
+/* Style the .instagram element with color, font, position, and flex properties similar to .lyonville-plan-2021-2025 */
 .instagram {
   color: #ffffff;
   text-align: left;
@@ -41,6 +47,7 @@
   align-items: center;
   justify-content: flex-start;
 }
+/* Set dimensions and position for the .image-70 element */
 .image-70 {
   width: 2082px;
   height: 1908px;
@@ -48,6 +55,7 @@
   left: -102px;
   top: 122px;
 }
+/* Set the position and transformation for the .group-114 element */
 .group-114 {
   position: absolute;
   left: 1728px;
@@ -473,6 +481,7 @@
   top: 2078px;
   overflow: visible;
 }
+/* Style the .instagram element with color, font, position, and flex properties similar to .lyonville-plan-2021-2025 */
 .instagram-1 {
   position: absolute;
   left: 1662px;
@@ -728,6 +737,7 @@
   left: 100px;
   top: 444px;
 }
+/* Set background, dimensions, position, and overflow for the main .local-business container */
 .local-businesses {
   color: #000000;
   text-align: left;

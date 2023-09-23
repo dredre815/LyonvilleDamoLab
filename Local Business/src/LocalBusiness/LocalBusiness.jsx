@@ -1,11 +1,18 @@
+/* Importing styles from the corresponding CSS module */
 import styles from "./LocalBusiness.module.css";
 
+/* Exporting the LocalBusiness component as a functional component */
 export const LocalBusiness = ({ ...props }) => {
   return (
+    /* Main container div for the LocalBusiness component, applying styles from CSS module */
     <div className={styles["local-business"]}>
+      /* Div containing text 'Lyonville Plan 2021-2025', applying styles from
+      CSS module */
       <div className={styles["lyonville-plan-2021-2025"]}>
         Lyonville Plan 2021-2025{" "}
       </div>
+      /* SVG element representing a rectangle, applying styles from CSS module
+      */
       <svg
         className={styles["rectangle-72"]}
         width="1728"
@@ -16,9 +23,12 @@ export const LocalBusiness = ({ ...props }) => {
       >
         <path d="M0 0H1728V1270H0V0Z" fill="#F4F3D7" />
       </svg>
-
+      /* Div containing text 'Instagram', applying styles from CSS module */
       <div className={styles["instagram"]}>Instagram </div>
+      /* Image element with source 'image-70.png', applying styles from CSS
+      module */
       <img className={styles["image-70"]} src="image-70.png" />
+      /* SVG element representing a group, applying styles from CSS module */
       <svg
         className={styles["group-114"]}
         width="755"
@@ -33,7 +43,6 @@ export const LocalBusiness = ({ ...props }) => {
         />
         <path d="M755 0.507812H172.226V80.5111H755V0.507812Z" fill="#1D5C2F" />
       </svg>
-
       <svg
         className={styles["rectangle-66"]}
         width="1728"
@@ -44,7 +53,6 @@ export const LocalBusiness = ({ ...props }) => {
       >
         <path d="M0 0H1728V1270H0V0Z" fill="#F4F3D7" />
       </svg>
-
       <div className={styles["rectangle-67"]}></div>
       <div className={styles["ellipse-19"]}></div>
       <div className={styles["ellipse-20"]}></div>
@@ -65,7 +73,6 @@ export const LocalBusiness = ({ ...props }) => {
         />
         <path d="M0 0.552734H704.215V118.697H0V0.552734Z" fill="#F4F3D7" />
       </svg>
-
       <div className={styles["rectangle-52"]}></div>
       <div className={styles["rectangle-71"]}></div>
       <div className={styles["footer"]}>
@@ -214,7 +221,10 @@ export const LocalBusiness = ({ ...props }) => {
       <div className={styles["rectangle-68"]}></div>
       <img className={styles["image-56"]} src="image-56.png" />
       <div className={styles["local-businesses"]}>LOCAL BUSINESSES </div>
-      <div className={styles["lyonville-s-businesses"]} style={{ whiteSpace: "nowrap" }}>
+      <div
+        className={styles["lyonville-s-businesses"]}
+        style={{ whiteSpace: "nowrap" }}
+      >
         Lyonville’s Businesses{" "}
       </div>
       <div
