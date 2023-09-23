@@ -14,7 +14,7 @@ export const RealEstate = ({ ...props }) => {
       >
         <path d="M0 0H1726V766H0V0Z" fill="#F4F3D7" />
       </svg>
-
+               
       <div className={styles["instagram"]}>Instagram </div>
       <svg
         className={styles["group-119"]}
