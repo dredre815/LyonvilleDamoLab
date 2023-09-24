@@ -70,6 +70,7 @@ For example, you have an Events page file, Events.jsx. Then you might want to mo
 Likewise, if you have a Navigation Bar component, NavBar.jsx, then you can move that to src/components.
 These steps ensure that you have all necessary and secure dependencies specified in package.json, and a complete .gitignore. Now, use the following commands:
 
+## Please do the following command under lyonville-frontend-damolab(this file)
 npm install (install everything to node_modules)
 npm run dev (to make sure vite is working properly)
 npm run lint (JS linter to improve code quality; if this shows errors, you must correct your code as per what the error is telling you)
