@@ -1,0 +1,511 @@
+.history {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.history .overlap-wrapper {
+  background-color: #ffffff;
+  height: 2697px;
+  overflow: hidden;
+  width: 1728px;
+}
+
+.history .overlap {
+  height: 2697px;
+  left: -24px;
+  position: relative;
+  width: 1797px;
+}
+
+.history .background {
+  height: 2697px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1797px;
+}
+
+.history .overlap-group {
+  height: 2697px;
+  left: 24px;
+  position: relative;
+  width: 1728px;
+}
+
+.history .rectangle {
+  height: 1111px;
+  left: 0;
+  position: absolute;
+  top: 357px;
+  width: 1728px;
+}
+
+.history .group {
+  height: 379px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 1728px;
+}
+
+.history .image {
+  height: 1457px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.history .img {
+  height: 1259px;
+  left: 0;
+  position: absolute;
+  top: 1438px;
+  width: 1728px;
+}
+
+.history .historical-walk {
+  height: 583px;
+  left: 944px;
+  position: absolute;
+  top: 2044px;
+  width: 757px;
+}
+
+.history .text-wrapper {
+  color: #f4f3d8;
+  font-family: "Roboto", Helvetica;
+  font-size: 48px;
+  font-weight: 600;
+  height: 128px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 0;
+  width: 733px;
+}
+
+.history .discover-lyonville-s {
+  color: #f4f3d8;
+  font-family: "Roboto", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  height: 280px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 49.5px;
+  position: absolute;
+  text-align: right;
+  top: 199px;
+  width: 450px;
+}
+
+.history .discover {
+  height: 58px;
+  left: 100px;
+  position: absolute;
+  top: 525px;
+  width: 302px;
+}
+
+.history .div {
+  border-radius: 40px;
+  height: 58px;
+  position: relative;
+  width: 300px;
+}
+
+.history .discover-more {
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  height: 55px;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: 65.5px;
+  position: absolute;
+  top: 45px;
+  white-space: nowrap;
+  width: 231px;
+}
+
+.history .rectangle-2 {
+  border: 2px solid;
+  border-color: #fffdfd;
+  border-radius: 40px;
+  height: 58px;
+  left: 0;
+  position: absolute;
+  top: 50px;
+  width: 300px;
+}
+
+.history .image-2 {
+  height: 332px;
+  left: 488px;
+  position: absolute;
+  top: 148px;
+  width: 265px;
+}
+
+.history .wombat-forest {
+  height: 563px;
+  left: 944px;
+  position: absolute;
+  top: 1438px;
+  width: 760px;
+}
+
+.history .p {
+  color: #f4f3d8;
+  font-family: "Roboto", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  height: 280px;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: 49.5px;
+  position: absolute;
+  text-align: right;
+  top: 207px;
+  width: 429px;
+}
+
+.history .overlap-group-wrapper {
+  height: 58px;
+  left: 100px;
+  position: absolute;
+  top: 505px;
+  width: 302px;
+}
+
+.history .discover-more-2 {
+  color: #fffcfc;
+  font-family: "Jost", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  height: 55px;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: 65.5px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 231px;
+}
+
+.history .rectangle-3 {
+  border: 2px solid;
+  border-color: #ffffff;
+  border-radius: 40px;
+  height: 58px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.history .image-3 {
+  height: 379px;
+  left: 475px;
+  object-fit: cover;
+  position: absolute;
+  top: 167px;
+  width: 281px;
+}
+
+.history .avenue {
+  height: 583px;
+  left: 78px;
+  position: absolute;
+  top: 2044px;
+  width: 737px;
+}
+
+.history .text-wrapper-2 {
+  color: #414730;
+  font-family: "Roboto", Helvetica;
+  font-size: 48px;
+  font-weight: 600;
+  height: 128px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 0;
+  width: 733px;
+}
+
+.history .lyonville-s-avenue {
+  color: #414730;
+  font-family: "Roboto", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  height: 229px;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 49.5px;
+  position: absolute;
+  top: 225px;
+  width: 365px;
+}
+
+.history .div-wrapper {
+  height: 58px;
+  left: 0;
+  position: absolute;
+  top: 525px;
+  width: 302px;
+}
+
+.history .discover-more-3 {
+  color: #000000;
+  font-family: "Jost", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  height: 55px;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: 65.5px;
+  position: absolute;
+  top: 45px;
+  white-space: nowrap;
+  width: 231px;
+}
+
+.history .rectangle-4 {
+  border: 2px solid;
+  border-color: #000000;
+  border-radius: 40px;
+  height: 58px;
+  left: 0;
+  position: absolute;
+  top: 50px;
+  width: 300px;
+}
+
+.history .image-4 {
+  height: 315px;
+  left: 390px;
+  object-fit: cover;
+  position: absolute;
+  top: 142px;
+  width: 343px;
+}
+
+.history .railway {
+  height: 512px;
+  left: 80px;
+  position: absolute;
+  top: 1438px;
+  width: 741px;
+}
+
+.history .text-wrapper-3 {
+  color: #f4f3d8;
+  font-family: "Roboto", Helvetica;
+  font-size: 48px;
+  font-weight: 600;
+  height: 128px;
+  left: 4px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 0;
+  width: 733px;
+}
+
+.history .text-wrapper-4 {
+  color: #f4f3d8;
+  font-family: "Roboto", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  height: 280px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 49.5px;
+  position: absolute;
+  top: 232px;
+  width: 331px;
+}
+
+.history .image-5 {
+  height: 280px;
+  left: 343px;
+  position: absolute;
+  top: 207px;
+  width: 388px;
+}
+
+.history .settle-and-log {
+  height: 505px;
+  left: 138px;
+  position: absolute;
+  top: 858px;
+  width: 1540px;
+}
+
+.history .overlap-2 {
+  height: 446px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 740px;
+}
+
+.history .green-BG {
+  background-color: #1d5c2f;
+  height: 385px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 672px;
+}
+
+.history .nature {
+  height: 387px;
+  left: 48px;
+  position: absolute;
+  top: 59px;
+  width: 692px;
+}
+
+.history .text-wrapper-5 {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  height: 283px;
+  left: 829px;
+  letter-spacing: 0;
+  line-height: 51px;
+  position: absolute;
+  text-align: right;
+  top: 222px;
+  width: 673px;
+}
+
+.history .text-wrapper-6 {
+  color: #1e1e1e;
+  font-family: "Roboto", Helvetica;
+  font-size: 64px;
+  font-weight: 600;
+  height: 128px;
+  left: 803px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 60px;
+  width: 733px;
+}
+
+.history .traditional {
+  height: 514px;
+  left: 236px;
+  position: absolute;
+  top: 271px;
+  width: 1423px;
+}
+
+.history .text-wrapper-7 {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  height: 257px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 51px;
+  position: absolute;
+  top: 164px;
+  width: 1279px;
+}
+
+.history .discover-2 {
+  height: 58px;
+  left: 1119px;
+  position: absolute;
+  top: 456px;
+  width: 302px;
+}
+
+.history .discover-more-4 {
+  color: #000000;
+  font-family: "Jost", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  height: 55px;
+  left: 54px;
+  letter-spacing: 0;
+  line-height: 65.5px;
+  position: absolute;
+  top: 45px;
+  white-space: nowrap;
+  width: 231px;
+}
+
+.history .text-wrapper-8 {
+  color: #414730;
+  font-family: "Roboto", Helvetica;
+  font-size: 64px;
+  font-weight: 600;
+  height: 128px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 0;
+  width: 644px;
+}
+
+.history .title {
+  height: 190px;
+  left: 143px;
+  position: absolute;
+  top: 66px;
+  width: 944px;
+}
+
+.history .overlap-3 {
+  height: 190px;
+  position: relative;
+  width: 942px;
+}
+
+.history .text-wrapper-9 {
+  color: #1d1f1a;
+  font-family: "Roboto", Helvetica;
+  font-size: 80px;
+  font-weight: 700;
+  height: 190px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 0;
+  width: 942px;
+}
+
+.history .rectangle-5 {
+  background-color: #acb594;
+  height: 30px;
+  left: 107px;
+  position: absolute;
+  top: 132px;
+  width: 209px;
+}
+
+.history .shadow {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.01) 14.93%, rgba(0, 0, 0, 0) 100%);
+  height: 133px;
+  left: 24px;
+  position: absolute;
+  top: 3px;
+  width: 1732px;
+}

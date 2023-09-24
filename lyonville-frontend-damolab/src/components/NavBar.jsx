@@ -22,6 +22,7 @@ export const NavBar = () => {
       items: [
         { name: 'Gardens', link: '/gardens' },
         { name: 'Weather', link: '/weather' },
+        { name: 'Local Business', link: '/local-business' },
       ],
     },
     {
@@ -41,6 +42,7 @@ export const NavBar = () => {
         { name: 'Committees and Working Group', link: '/committees' },
       ],
     },
+
   ];
 
   return (

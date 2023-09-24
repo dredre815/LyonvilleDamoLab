@@ -1,0 +1,206 @@
+.real-estate * {
+  box-sizing: border-box;
+}
+
+.real-estate {
+  z-index: 10;
+  background: #ffffff;
+  width: 100%;
+  width: 1728px;
+  /* height: 3257px; */
+  position: relative;
+  overflow: hidden; 
+}
+/* .real-estate {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+} */
+
+.real-estate .overlap-wrapper {
+  background-color: #ffffff;
+  height: 1735px;
+  overflow: hidden;
+  width: 1728px;
+}
+
+.real-estate .overlap {
+  height: 1735px;
+  position: relative;
+  width: 1740px;
+}
+
+.real-estate .background {
+  height: 1082px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1726px;
+}
+
+.real-estate .overlap-group {
+  height: 1082px;
+  position: relative;
+}
+
+.real-estate .rectangle {
+  height: 766px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1726px;
+}
+
+.real-estate .image {
+  height: 1082px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1724px;
+}
+
+.real-estate .picture {
+  height: 969px;
+  left: 0;
+  position: absolute;
+  top: 766px;
+  width: 1732px;
+}
+
+.real-estate .div {
+  background-color: #1d5c2f;
+  height: 969px;
+  position: relative;
+  width: 1730px;
+}
+
+.real-estate .img {
+  height: 894px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 1659px;
+}
+
+.real-estate .rectangle-2 {
+  height: 894px;
+  left: 36px;
+  position: absolute;
+  top: 40px;
+  width: 1659px;
+}
+
+.real-estate .rectangle-3 {
+  border: 2px solid;
+  border-color: #f4f3d7;
+  border-radius: 40px;
+  height: 60px;
+  left: 602px;
+  position: absolute;
+  top: 838px;
+  width: 498px;
+}
+
+.real-estate .discover-your-future {
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 28px;
+  font-weight: 700;
+  height: 61px;
+  left: 671px;
+  letter-spacing: 0;
+  line-height: 65.5px;
+  position: absolute;
+  top: 838px;
+  white-space: nowrap;
+  width: 626px;
+}
+
+.real-estate .lving {
+  height: 746px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 1738px;
+}
+
+.real-estate .overlap-2 {
+  height: 357px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1732px;
+}
+
+.real-estate .rectangle-4 {
+  background-color: #acb594;
+  height: 30px;
+  left: 196px;
+  position: absolute;
+  top: 186px;
+  width: 263px;
+}
+
+.real-estate .rectangle-5 {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.01) 14.93%, rgba(0, 0, 0, 0) 100%);
+  height: 133px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1732px;
+}
+
+.real-estate .rectangle-6 {
+  height: 30px;
+  left: 893px;
+  position: absolute;
+  top: 203px;
+  width: 833px;
+}
+
+.real-estate .text-wrapper {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 80px;
+  font-weight: 700;
+  height: 184px;
+  left: 108px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 58px;
+  width: 913px;
+}
+
+.real-estate .text-wrapper-2 {
+  color: #1e1e1e;
+  font-family: "Roboto", Helvetica;
+  font-size: 64px;
+  font-weight: 600;
+  height: 124px;
+  left: 169px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: 233px;
+  width: 687px;
+}
+
+.real-estate .discover-the {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  height: 385px;
+  left: 175px;
+  letter-spacing: 0;
+  line-height: 51px;
+  position: absolute;
+  text-align: right;
+  top: 361px;
+  width: 1468px;
+}
