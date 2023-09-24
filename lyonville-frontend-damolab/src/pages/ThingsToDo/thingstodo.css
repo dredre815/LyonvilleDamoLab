@@ -7,481 +7,30 @@
   background: #8A946E;
   /* width: 100%; */
   width: 1728px;
-  height: 2757px;
+  /* height: 2757px; */
   position: relative;
   overflow: hidden; 
 }
 
-.things-to-do .div {
-  /* background-color: #ffffff; */
-  height: 2757px;
-  overflow: hidden;
-  position: relative;
-  width: 1728px;
+.things-to-do {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
 }
 
-.things-to-do .footer {
-  background-color: transparent;
-  height: 225px;
-  left: 0;
-  position: absolute;
-  top: 2534px;
+.things-to-do .overlap-wrapper {
+  background-color: #ffffff;
+  height: 2344px;
+  overflow: hidden;
   width: 1728px;
 }
 
 .things-to-do .overlap {
-  background-image: url(https://c.animaapp.com/v3JAvtAV/img/footerbg.svg);
-  background-size: 100%;
-  height: 223px;
-  position: relative;
-  width: 1728px;
-}
-
-.things-to-do .logo {
-  height: 114px;
-  left: 1520px;
-  object-fit: cover;
-  position: absolute;
-  top: 55px;
-  width: 121px;
-}
-
-.things-to-do .community-pages {
-  height: 146px;
-  left: 752px;
-  position: absolute;
-  top: 26px;
-  width: 392px;
-}
-
-.things-to-do .overlap-group {
-  height: 146px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 197px;
-}
-
-.things-to-do .text-wrapper {
-  color: #f4f3d8;
-  font-family: "Jost", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
-  height: 46px;
-  left: 0;
-  letter-spacing: 0;
-  line-height: 100px;
-  position: absolute;
-  top: 0;
-  white-space: nowrap;
-  width: 197px;
-}
-
-.things-to-do .text-wrapper-2 {
-  color: #ffffff;
-  font-family: "Jost", Helvetica;
-  font-size: 16px;
-  font-weight: 600;
-  height: 65px;
-  left: 0;
-  letter-spacing: 0;
-  line-height: 100px;
-  position: absolute;
-  top: 54px;
-  white-space: nowrap;
-  width: 181px;
-}
-
-.things-to-do .text-wrapper-3 {
-  color: #ffffff;
-  font-family: "Jost", Helvetica;
-  font-size: 16px;
-  font-weight: 600;
-  height: 65px;
-  left: 0;
-  letter-spacing: 0;
-  line-height: 100px;
-  position: absolute;
-  top: 81px;
-  white-space: nowrap;
-  width: 181px;
-}
-
-.things-to-do .text-wrapper-4 {
-  color: #ffffff;
-  font-family: "Jost", Helvetica;
-  font-size: 16px;
-  font-weight: 600;
-  height: 65px;
-  left: 0;
-  letter-spacing: 0;
-  line-height: 100px;
-  position: absolute;
-  top: 28px;
-  white-space: nowrap;
-  width: 141px;
-}
-
-.things-to-do .overlap-2 {
-  height: 118px;
-  left: 197px;
-  position: absolute;
-  top: 28px;
-  width: 181px;
-}
-
-.things-to-do .text-wrapper-5 {
-  color: #ffffff;
-  font-family: "Jost", Helvetica;
-  font-size: 16px;
-  font-weight: 600;
-  height: 65px;
-  left: 0;
-  letter-spacing: 0;
-  line-height: 100px;
-  position: absolute;
-  top: 0;
-  white-space: nowrap;
-  width: 141px;
-}
-
-.things-to-do .text-wrapper-6 {
-  color: #ffffff;
-  font-family: "Jost", Helvetica;
-  font-size: 16px;
-  font-weight: 600;
-  height: 65px;
-  left: 0;
-  letter-spacing: 0;
-  line-height: 100px;
-  position: absolute;
-  top: 53px;
-  white-space: nowrap;
-  width: 181px;
-}
-
-.things-to-do .text-wrapper-7 {
-  color: #ffffff;
-  font-family: "Jost", Helvetica;
-  font-size: 16px;
-  font-weight: 600;
-  height: 65px;
-  left: 0;
-  letter-spacing: 0;
-  line-height: 100px;
-  position: absolute;
-  top: 26px;
-  white-space: nowrap;
-  width: 141px;
-}
-
-.things-to-do .calender-events {
-  height: 149px;
-  left: 315px;
-  position: absolute;
-  top: 23px;
-  width: 369px;
-}
-
-.things-to-do .overlap-3 {
-  height: 149px;
-  position: relative;
-  width: 355px;
-}
-
-.things-to-do .text-wrapper-8 {
-  color: #f4f3d8;
-  font-family: "Jost", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
-  height: 55px;
-  left: 6px;
-  letter-spacing: 0;
-  line-height: 100px;
-  position: absolute;
-  top: 0;
-  white-space: nowrap;
-  width: 198px;
-}
-
-.things-to-do .text-wrapper-9 {
-  color: #ffffff;
-  font-family: "Jost", Helvetica;
-  font-size: 16px;
-  font-weight: 600;
-  height: 65px;
-  left: 0;
-  letter-spacing: 0;
-  line-height: 100px;
-  position: absolute;
-  top: 30px;
-  white-space: nowrap;
-  width: 141px;
-}
-
-.things-to-do .text-wrapper-10 {
-  color: #ffffff;
-  font-family: "Jost", Helvetica;
-  font-size: 16px;
-  font-weight: 600;
-  height: 65px;
-  left: 0;
-  letter-spacing: 0;
-  line-height: 100px;
-  position: absolute;
-  top: 57px;
-  white-space: nowrap;
-  width: 141px;
-}
-
-.things-to-do .text-wrapper-11 {
-  color: #ffffff;
-  font-family: "Jost", Helvetica;
-  font-size: 16px;
-  font-weight: 600;
-  height: 65px;
-  left: 0;
-  letter-spacing: 0;
-  line-height: 100px;
-  position: absolute;
-  top: 84px;
-  white-space: nowrap;
-  width: 141px;
-}
-
-.things-to-do .text-wrapper-12 {
-  color: #ffffff;
-  font-family: "Jost", Helvetica;
-  font-size: 16px;
-  font-weight: 600;
-  height: 65px;
-  left: 160px;
-  letter-spacing: 0;
-  line-height: 100px;
-  position: absolute;
-  top: 30px;
-  white-space: nowrap;
-  width: 131px;
-}
-
-.things-to-do .text-wrapper-13 {
-  color: #ffffff;
-  font-family: "Jost", Helvetica;
-  font-size: 16px;
-  font-weight: 600;
-  height: 65px;
-  left: 160px;
-  letter-spacing: 0;
-  line-height: 100px;
-  position: absolute;
-  top: 57px;
-  white-space: nowrap;
-  width: 152px;
-}
-
-.things-to-do .text-wrapper-14 {
-  color: #ffffff;
-  font-family: "Jost", Helvetica;
-  font-size: 16px;
-  font-weight: 600;
-  height: 65px;
-  left: 160px;
-  letter-spacing: 0;
-  line-height: 100px;
-  position: absolute;
-  top: 84px;
-  white-space: nowrap;
-  width: 195px;
-}
-
-.things-to-do .lyonville {
-  height: 176px;
-  left: 93px;
-  position: absolute;
-  top: 23px;
-  width: 151px;
-}
-
-.things-to-do .overlap-4 {
-  height: 176px;
-  position: relative;
-  width: 141px;
-}
-
-.things-to-do .text-wrapper-15 {
-  color: #f4f3d8;
-  font-family: "Jost", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
-  height: 55px;
-  left: 0;
-  letter-spacing: 0;
-  line-height: 100px;
-  position: absolute;
-  top: 0;
-  white-space: nowrap;
-  width: 98px;
-}
-
-.things-to-do .text-wrapper-16 {
-  color: #ffffff;
-  font-family: "Jost", Helvetica;
-  font-size: 16px;
-  font-weight: 600;
-  height: 65px;
-  left: 0;
-  letter-spacing: 0;
-  line-height: 100px;
-  position: absolute;
-  top: 32px;
-  white-space: nowrap;
-  width: 141px;
-}
-
-.things-to-do .text-wrapper-17 {
-  color: #ffffff;
-  font-family: "Jost", Helvetica;
-  font-size: 16px;
-  font-weight: 600;
-  height: 65px;
-  left: 0;
-  letter-spacing: 0;
-  line-height: 100px;
-  position: absolute;
-  top: 58px;
-  white-space: nowrap;
-  width: 141px;
-}
-
-.things-to-do .text-wrapper-18 {
-  color: #ffffff;
-  font-family: "Jost", Helvetica;
-  font-size: 16px;
-  font-weight: 600;
-  height: 65px;
-  left: 0;
-  letter-spacing: 0;
-  line-height: 100px;
-  position: absolute;
-  top: 110px;
-  white-space: nowrap;
-  width: 141px;
-}
-
-
-
-.things-to-do .social-icon {
-  box-shadow: 0px 4px 70px #000000b2;
-  height: 134px;
-  left: 1668px;
-  position: absolute;
-  top: 57px;
-  width: 24px;
-}
-
-.things-to-do .vector {
-  height: 20px;
-  left: 8px;
-  position: absolute;
-  top: 0;
-  width: 10px;
-}
-
-.things-to-do .instagram {
-  height: 24px;
-  left: 0;
-  position: absolute;
-  top: 53px;
-  width: 24px;
-}
-
-.things-to-do .facebook-f {
-  height: 24px;
-  left: 0;
-  position: absolute;
-  top: 110px;
-  width: 24px;
-}
-
-.things-to-do .contact {
-  height: 143px;
-  left: 1215px;
-  position: absolute;
-  top: 23px;
-  width: 211px;
-}
-
-.things-to-do .overlap-5 {
-  height: 143px;
-  position: relative;
-  width: 203px;
-}
-
-.things-to-do .text-wrapper-19 {
-  color: #f4f3d8;
-  font-family: "Jost", Helvetica;
-  font-size: 24px;
-  font-weight: 600;
-  height: 54px;
-  left: 0;
-  letter-spacing: 0;
-  line-height: 100px;
-  position: absolute;
-  top: 0;
-  white-space: nowrap;
-  width: 198px;
-}
-
-.things-to-do .text-wrapper-20 {
-  color: #ffffff;
-  font-family: "Jost", Helvetica;
-  font-size: 16px;
-  font-weight: 600;
-  height: 65px;
-  left: 3px;
-  letter-spacing: 0;
-  line-height: 100px;
-  position: absolute;
-  top: 36px;
-  white-space: nowrap;
-  width: 150px;
-}
-
-.things-to-do .text-wrapper-21 {
-  color: #ffffff;
-  font-family: "Jost", Helvetica;
-  font-size: 16px;
-  font-weight: 600;
-  height: 65px;
-  left: 3px;
-  letter-spacing: 0;
-  line-height: 100px;
-  position: absolute;
-  top: 57px;
-  white-space: nowrap;
-  width: 116px;
-}
-
-.things-to-do .text-wrapper-22 {
-  color: #ffffff;
-  font-family: "Jost", Helvetica;
-  font-size: 16px;
-  font-weight: 600;
-  height: 65px;
-  left: 3px;
-  letter-spacing: 0;
-  line-height: 100px;
-  position: absolute;
-  top: 78px;
-  white-space: nowrap;
-  width: 200px;
-}
-
-.things-to-do .overlap-6 {
-  height: 2534px;
+  height: 2412px;
   left: -77px;
-  position: absolute;
-  top: 0;
+  position: relative;
   width: 1862px;
 }
 
@@ -489,12 +38,12 @@
   height: 2412px;
   left: 0;
   position: absolute;
-  top: 122px;
+  top: 0;
   width: 1862px;
 }
 
-.things-to-do .overlap-7 {
-  height: 2412px;
+.things-to-do .overlap-group {
+  height: 2344px;
   left: 77px;
   position: relative;
   width: 1728px;
@@ -518,69 +67,54 @@
 }
 
 .things-to-do .group {
+  height: 927px;
   left: 0;
   position: absolute;
   top: 1417px;
   width: 1726px;
 }
 
-
 .things-to-do .calendar-of-events {
+  height: 460px;
+  left: 137px;
+  position: absolute;
+  top: 1827px;
+  width: 1591px;
   overflow-x: auto;
   overflow-y: hidden;
-  height: 503px;
-  left: 141px;
-  /* position: absolute */
-  position: relative;
-  top: 2006px;
-  width: 1595px;
 }
 
-.things-to-do .overlap-8 {
-  height: 469px;
+.things-to-do .div {
+  height: 460px;
+  position: relative;
+  width: 2040px;
+}
+
+.things-to-do .overlap-2 {
+  height: 460px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 3040px;
+  width: 1589px;
 }
-
-.new-event-1, .new-event-2, .new-event-3 {
-  position: absolute;
-  height: 331px;
-  width: 404px;
-  top: 138px;
-}
-
-.new-event-1 {
-    left: 1600px;  
-}
-
-.new-event-2 {
-  left: 2100px;  
-}
-
-.new-event-3 {
-  left: 2600px; 
-}
-
 
 .things-to-do .img {
   height: 39px;
-  left: 701px;
+  left: 697px;
   position: absolute;
-  top: 62px;
+  top: 53px;
   width: 892px;
 }
 
-.things-to-do .overlap-9 {
-  height: 469px;
+.things-to-do .overlap-3 {
+  height: 460px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 975px;
+  width: 971px;
 }
 
-.things-to-do .text-wrapper-23 {
+.things-to-do .text-wrapper {
   color: #000000;
   font-family: "Roboto", Helvetica;
   font-size: 64px;
@@ -596,9 +130,9 @@
 
 .things-to-do .open-garden-day {
   height: 328px;
-  left: 42px;
+  left: 38px;
   position: absolute;
-  top: 142px;
+  top: 133px;
   width: 404px;
 }
 
@@ -635,6 +169,21 @@
   width: 295px;
 }
 
+.things-to-do .discover-more {
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  height: 58px;
+  left: 107px;
+  letter-spacing: 0;
+  line-height: 65.5px;
+  position: absolute;
+  top: 248px;
+  white-space: nowrap;
+  width: 204px;
+}
+
 .things-to-do .image-2 {
   height: 162px;
   left: 39px;
@@ -644,7 +193,7 @@
   width: 323px;
 }
 
-.things-to-do .text-wrapper-24 {
+.things-to-do .text-wrapper-2 {
   color: #f4f3d8;
   font-family: "Roboto", Helvetica;
   font-size: 30px;
@@ -660,13 +209,13 @@
 
 .things-to-do .woodchop {
   height: 331px;
-  left: 571px;
+  left: 567px;
   position: absolute;
-  top: 138px;
+  top: 129px;
   width: 404px;
 }
 
-.things-to-do .overlap-10 {
+.things-to-do .overlap-4 {
   height: 331px;
   position: relative;
   width: 400px;
@@ -688,20 +237,30 @@
   width: 347px;
 }
 
-.things-to-do .discover-more {
+.things-to-do .rectangle-3 {
+  border: 2px solid;
+  border-color: #ffffff;
+  border-radius: 40px;
+  height: 57px;
+  left: 53px;
+  position: absolute;
+  top: 253px;
+  width: 295px;
+}
+
+.things-to-do .discover-more-2 {
   color: #ffffff;
   font-family: "Jost", Helvetica;
   font-size: 28px;
   font-weight: 400;
   height: 58px;
-  /* left: 108px; */
-  left: 107px;
+  left: 108px;
   letter-spacing: 0;
   line-height: 65.5px;
   position: absolute;
-  top: 248px;
+  top: 252px;
   white-space: nowrap;
-  width: 204px;
+  width: 205px;
 }
 
 .things-to-do .image-3 {
@@ -713,7 +272,7 @@
   width: 323px;
 }
 
-.things-to-do .text-wrapper-25 {
+.things-to-do .text-wrapper-3 {
   color: #f4f3d8;
   font-family: "Roboto", Helvetica;
   font-size: 30px;
@@ -729,13 +288,13 @@
 
 .things-to-do .bakeoff {
   height: 331px;
-  left: 1100px;
+  left: 1096px;
   position: absolute;
-  top: 138px;
+  top: 129px;
   width: 404px;
 }
 
-/* .things-to-do .rectangle-4 {
+.things-to-do .rectangle-4 {
   border: 2px solid;
   border-color: #ffffff;
   border-radius: 40px;
@@ -744,9 +303,9 @@
   position: absolute;
   top: 253px;
   width: 294px;
-} */
+}
 
-/* .things-to-do .discover-more-3 {
+.things-to-do .discover-more-3 {
   color: #ffffff;
   font-family: "Jost", Helvetica;
   font-size: 28px;
@@ -759,123 +318,49 @@
   top: 252px;
   white-space: nowrap;
   width: 204px;
-} */
-
-.things-to-do .image-4 {
-  height: 162px;
-  left: 40px;
-  object-fit: cover;
-  position: absolute;
-  top: 70px;
-  width: 323px;
 }
 
-.things-to-do .text-wrapper-26 {
+.things-to-do .event {
+  height: 162px;
+  left: 38px;
+  position: absolute;
+  top: 70px;
+  width: 324px;
+}
+
+.things-to-do .text-wrapper-4 {
   color: #f4f3d8;
   font-family: "Roboto", Helvetica;
   font-size: 30px;
   font-weight: 700;
   height: 69px;
-  left: 150px;
+  left: 140px;
   letter-spacing: 0;
   line-height: 49.5px;
-  position: absolute;
+  position: relative;
   top: 0;
   width: 250px;
 }
 
-/* .things-to-do .scorll-bar {
-  height: 13px;
-  left: 459px;
+
+.new-event-1 {
   position: absolute;
-  top: 490px;
-  width: 580px;
+  height: 331px;
+  width: 404px;
+  top: 129px;
 }
 
-.things-to-do .overlap-group-3 {
-  height: 13px;
-  position: relative;
+
+.new-event-1 {
+    left: 1600px;  
 }
 
-.things-to-do .overlap-group-wrapper {
-  height: 13px;
-  left: 140px;
-  position: absolute;
-  top: 0;
-  width: 187px;
-}
-
-.things-to-do .ellipse {
-  background-color: #d9d9d9;
-  border-radius: 23.5px/6.5px;
-  height: 13px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 47px;
-}
-
-.things-to-do .ellipse-2 {
-  background-color: #d9d9d9;
-  border-radius: 22.5px/6.5px;
-  height: 13px;
-  left: 142px;
-  position: absolute;
-  top: 0;
-  width: 45px;
-}
-
-.things-to-do .rectangle-5 {
-  background-color: #d9d9d9;
-  height: 13px;
-  left: 24px;
-  position: absolute;
-  top: 0;
-  width: 140px;
-}
-
-.things-to-do .overlap-wrapper {
-  height: 13px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 580px;
-}
-
-.things-to-do .rectangle-6 {
-  background-color: #c3c1c1;
-  height: 13px;
-  left: 20px;
-  position: absolute;
-  top: 0;
-  width: 539px;
-}
-
-.things-to-do .ellipse-3 {
-  background-color: #c3c2c2;
-  border-radius: 19.5px/6.5px;
-  height: 13px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 39px;
-}
-
-.things-to-do .ellipse-4 {
-  background-color: #c3c2c2;
-  border-radius: 22px/6.5px;
-  height: 13px;
-  left: 536px;
-  position: absolute;
-  top: 0;
-  width: 44px;
-} */
 
 .things-to-do .historical-walk {
   height: 450px;
-  left: 126px;
+  left: 110px;
   position: absolute;
-  top: 1565px;
+  top: 1377px;
   width: 1667px;
 }
 
@@ -894,7 +379,7 @@
   width: 659px;
 }
 
-.things-to-do .text-wrapper-27 {
+.things-to-do .text-wrapper-5 {
   color: #1e1e1e;
   font-family: "Roboto", Helvetica;
   font-size: 64px;
@@ -916,13 +401,13 @@
   width: 382px;
 }
 
-.things-to-do .overlap-group-4 {
+.things-to-do .overlap-group-3 {
   height: 57px;
   position: relative;
   width: 380px;
 }
 
-.things-to-do .text-wrapper-28 {
+.things-to-do .text-wrapper-6 {
   color: #000000;
   font-family: "Jost", Helvetica;
   font-size: 28px;
@@ -938,7 +423,7 @@
   width: 380px;
 }
 
-.things-to-do .rectangle-7 {
+.things-to-do .rectangle-5 {
   border: 2px solid;
   border-color: #000000;
   border-radius: 40px;
@@ -950,19 +435,19 @@
 }
 
 .things-to-do .picture {
-  height: 435px;
+  height: 401px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 730px;
+  width: 712px;
 }
 
-.things-to-do .overlap-11 {
-  height: 435px;
+.things-to-do .overlap-5 {
+  height: 401px;
   position: relative;
 }
 
-.things-to-do .rectangle-8 {
+.things-to-do .rectangle-6 {
   height: 380px;
   left: 0;
   position: absolute;
@@ -970,19 +455,20 @@
   width: 666px;
 }
 
-.things-to-do .image-5 {
-  height: 382px;
-  left: 43px;
+.things-to-do .image-4 {
+  height: 374px;
+  left: 46px;
+  object-fit: cover;
   position: absolute;
-  top: 53px;
-  width: 687px;
+  top: 27px;
+  width: 666px;
 }
 
 .things-to-do .walk-ride-picnic {
   height: 1103px;
-  left: 147px;
+  left: 117px;
   position: absolute;
-  top: 419px;
+  top: 230px;
   width: 1656px;
 }
 
@@ -1002,16 +488,7 @@
   width: 420px;
 }
 
-.things-to-do .img-2 {
-  height: 299px;
-  left: 0;
-  object-fit: cover;
-  position: absolute;
-  top: 0;
-  width: 418px;
-}
-
-.things-to-do .text-wrapper-29 {
+.things-to-do .text-wrapper-7 {
   color: #000000;
   font-family: "Jost", Helvetica;
   font-size: 24px;
@@ -1027,6 +504,15 @@
   width: 418px;
 }
 
+.things-to-do .nature {
+  height: 299px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 418px;
+}
+
 .things-to-do .right-group {
   height: 350px;
   left: 515px;
@@ -1035,7 +521,15 @@
   width: 420px;
 }
 
-.things-to-do .overlap-12 {
+.things-to-do .nature-2 {
+  height: 299px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 418px;
+}
+
+.things-to-do .overlap-6 {
   height: 326px;
   left: 89px;
   position: absolute;
@@ -1057,7 +551,7 @@
   width: 501px;
 }
 
-.things-to-do .text-wrapper-30 {
+.things-to-do .text-wrapper-8 {
   color: #1e1e1e;
   font-family: "Roboto", Helvetica;
   font-size: 64px;
@@ -1072,7 +566,7 @@
   width: 542px;
 }
 
-.things-to-do .div-wrapper {
+.things-to-do .overlap-group-wrapper {
   height: 57px;
   left: 89px;
   position: absolute;
@@ -1080,7 +574,7 @@
   width: 382px;
 }
 
-.things-to-do .text-wrapper-31 {
+.things-to-do .text-wrapper-9 {
   color: #000000;
   font-family: "Roboto", Helvetica;
   font-size: 28px;
@@ -1104,12 +598,12 @@
   width: 1652px;
 }
 
-.things-to-do .overlap-13 {
+.things-to-do .overlap-7 {
   height: 667px;
   position: relative;
 }
 
-.things-to-do .rectangle-9 {
+.things-to-do .rectangle-7 {
   height: 73px;
   left: 54px;
   position: absolute;
@@ -1117,7 +611,7 @@
   width: 1598px;
 }
 
-.things-to-do .image-6 {
+.things-to-do .image-5 {
   height: 630px;
   left: 0;
   position: absolute;
@@ -1127,19 +621,19 @@
 
 .things-to-do .title {
   height: 186px;
-  left: 195px;
+  left: 164px;
   position: absolute;
-  top: 188px;
+  top: 0;
   width: 927px;
 }
 
-.things-to-do .overlap-14 {
+.things-to-do .overlap-8 {
   height: 186px;
   position: relative;
   width: 925px;
 }
 
-.things-to-do .rectangle-10 {
+.things-to-do .rectangle-8 {
   background-color: #acb594;
   height: 30px;
   left: 166px;
@@ -1148,7 +642,7 @@
   width: 332px;
 }
 
-.things-to-do .text-wrapper-32 {
+.things-to-do .text-wrapper-10 {
   color: #000000;
   font-family: "Roboto", Helvetica;
   font-size: 80px;
@@ -1162,178 +656,11 @@
   width: 925px;
 }
 
-.things-to-do .header {
-  background-color: transparent;
-  height: 255px;
-  left: 77px;
-  position: absolute;
-  top: 0;
-  width: 1740px;
-}
-
-.things-to-do .overlap-15 {
-  height: 255px;
-  position: relative;
-  width: 1742px;
-}
-
 .things-to-do .shadow-header {
   background: linear-gradient(180deg, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.01) 14.93%, rgba(0, 0, 0, 0) 100%);
   height: 133px;
-  left: 0;
+  left: 77px;
   position: absolute;
-  top: 122px;
+  top: 0;
   width: 1732px;
-}
-
-.things-to-do .BG-header {
-  height: 122px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 1728px;
-}
-
-.things-to-do .icon {
-  background-color: #acb594;
-  border-radius: 25px/23.5px;
-  box-shadow: 0px 4px 4px #00000040;
-  height: 47px;
-  left: 69px;
-  position: absolute;
-  top: 40px;
-  width: 50px;
-}
-
-.things-to-do .ellipse-5 {
-  background-color: #414730;
-  border: 0.2px solid;
-  border-color: #000000;
-  border-radius: 11px/4px;
-  height: 8px;
-  left: 14px;
-  position: absolute;
-  top: 9px;
-  width: 22px;
-}
-
-.things-to-do .ellipse-6 {
-  background-color: #414730;
-  border: 0.2px solid;
-  border-color: #000000;
-  border-radius: 11px/4px;
-  height: 8px;
-  left: 14px;
-  position: absolute;
-  top: 19px;
-  width: 22px;
-}
-
-.things-to-do .ellipse-7 {
-  background-color: #414730;
-  border: 0.2px solid;
-  border-color: #000000;
-  border-radius: 11px/4px;
-  height: 8px;
-  left: 14px;
-  position: absolute;
-  top: 29px;
-  width: 22px;
-}
-
-.things-to-do .context {
-  height: 100px;
-  left: 169px;
-  position: absolute;
-  top: 35px;
-  width: 1573px;
-}
-
-.things-to-do .title-2 {
-  height: 40px;
-  left: 0;
-  position: absolute;
-  top: 12px;
-  width: 920px;
-}
-
-.things-to-do .text-wrapper-33 {
-  color: #414730;
-  font-family: "Jost", Helvetica;
-  font-size: 25px;
-  font-weight: 600;
-  height: 37px;
-  left: 732px;
-  letter-spacing: 0;
-  line-height: 100px;
-  position: absolute;
-  top: 3px;
-  white-space: nowrap;
-  width: 180px;
-}
-
-.things-to-do .overlap-group-5 {
-  height: 39px;
-  left: 284px;
-  position: absolute;
-  top: 1px;
-  width: 349px;
-}
-
-.things-to-do .text-wrapper-34 {
-  color: #414730;
-  font-family: "Jost", Helvetica;
-  font-size: 25px;
-  font-weight: 600;
-  height: 38px;
-  left: 261px;
-  letter-spacing: 0;
-  line-height: 100px;
-  position: absolute;
-  top: 2px;
-  white-space: nowrap;
-  width: 88px;
-}
-
-.things-to-do .text-wrapper-35 {
-  color: #414730;
-  font-family: "Jost", Helvetica;
-  font-size: 25px;
-  font-weight: 600;
-  height: 38px;
-  left: 0;
-  letter-spacing: 0;
-  line-height: 100px;
-  position: absolute;
-  top: 0;
-  white-space: nowrap;
-  width: 293px;
-}
-
-.things-to-do .about-lyonville {
-  color: #414730;
-  font-family: "Jost", Helvetica;
-  font-size: 25px;
-  font-weight: 600;
-  height: 38px;
-  left: 0;
-  letter-spacing: 0;
-  line-height: 100px;
-  position: absolute;
-  top: 0;
-  white-space: nowrap;
-  width: 253px;
-}
-
-.things-to-do .text-wrapper-36 {
-  color: #89936e;
-  font-family: "Open Sans", Helvetica;
-  font-size: 48px;
-  font-weight: 600;
-  left: 1246px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: 0;
-  width: 325px;
 }
