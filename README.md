@@ -52,7 +52,7 @@ Visit the live website at `[website link]` or run it locally following the setup
 ## **Contributors & Roles**
 
 - **Damolab Team:** Responsible for the design of the main pages (Things To Do, History, Real Estate, Local Business).
-- **XX Group:** Oversight and overall project management.
+- **HillClimbers:** Oversight and overall project management.
 
 ## **Feedback**
 
@@ -60,6 +60,7 @@ To provide feedback or report inappropriate content, please email us at `[group 
 
 ## **How to Use**
 （From Owner avatar lyonville-frontend's Readme file)
+
 Please contact The Duy Nguyen from HillClimbers for any queries and issues with setting up node_modules and running unit tests and linters. Firstly, ensure that you have installed npm or yarn. Then, do as follows:
 
 Clone the main repository. Then git switch to your team's branch (you might need to fetch)
