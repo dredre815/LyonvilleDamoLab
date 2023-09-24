@@ -2,15 +2,16 @@ import React, { useRef, useState } from "react";
 import "./style.css";
 
 export const Box = () => {
-
+  // Initializing refs and states using React's hooks
   const containerRef = useRef(null);
   const [isDragging, setIsDragging] = useState(false);
   const [startX, setStartX] = useState(0);
   const [scrollLeft, setScrollLeft] = useState(0);
 
+  // Function to handle mouse down events
   const handleMouseDown = (e) => {
     if (!containerRef.current) return;
-
+    // Set the state when dragging starts
     setIsDragging(true);
     setStartX(e.pageX - containerRef.current.offsetLeft);
     setScrollLeft(containerRef.current.scrollLeft);
@@ -21,23 +22,24 @@ export const Box = () => {
     e.preventDefault();
     const x = e.pageX - containerRef.current.offsetLeft;
     const walk = x - startX; // how far the mouse has been moved
+    // Update the scroll position based on the distance moved
     containerRef.current.scrollLeft = scrollLeft - walk;
   };
 
 
 
 
-
+  // Main container div
   return (
     <div className="box">
       <div className="calendar-of-events">
         <div className="overlap">
-          {/* <div className="overlap"> */}
+          
             <img className="rectangle" alt="Rectangle" src="https://c.animaapp.com/uql2BcTx/img/rectangle-78.svg" />
-            {/* <div className="overlap-group"> */}
+            
               <div className="text-wrapper">Calendar of Events</div>
 
-              
+              {/* different window in box */}
               <div className="open-garden-day">
                 <div className="div">
                   <img className="group" alt="Group" src="https://c.animaapp.com/uql2BcTx/img/group-107@2x.png" />
@@ -58,8 +60,7 @@ export const Box = () => {
                   <div className="text-wrapper-3">Woodchop</div>
                 </div>
               </div>
-            {/* </div> */}
-          {/* </div> */}
+            
             <div className="bakeoff">
               <div className="overlap-2">
                 <img className="group-2" alt="Group" src="https://c.animaapp.com/uql2BcTx/img/group-111@2x.png" />
@@ -71,7 +72,7 @@ export const Box = () => {
               </div>
             </div>
 
-          {/* 添加新的板块以增加内容量，从而实现滚动效果 */}
+          {/* more object that might include */}
           <div className="new-event-1">
               <div className="div">
                   <div className="overlap-2">
@@ -122,22 +123,7 @@ export const Box = () => {
         >
 
 
-          {/* <div className="overlap-group-2">
-            <div className="overlap-group-wrapper">
-              <div className="overlap-group-2">
-                <div className="ellipse" />
-                <div className="ellipse-2" />
-                <div className="rectangle-5" />
-              </div>
-            </div>
-            <div className="overlap-wrapper">
-              <div className="overlap-group-2">
-                <div className="rectangle-6" />
-                <div className="ellipse-3" />
-                <div className="ellipse-4" />
-              </div>
-            </div>
-          </div> */}
+          
         </div>
       </div>
     </div>

@@ -1,7 +1,8 @@
 import React from "react";
 import "./style.css";
-
+// Define a functional component called "Box"
 export const Box = () => {
+  // What the component renders
   return (
     <div className="box">
       <div className="open-garden-day">
