@@ -1,0 +1,31 @@
+.bg {
+  position: relative;
+  background-image: url('../../assets/realestate/realestate-backdrop.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #F4F3D7;
+  z-index: -1;
+  pointer-events: none; 
+}
+
+.ImgPadding {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  text-align: justify;
+}
+
+.font {
+  font-family: "Jost", Helvetica;
+}
