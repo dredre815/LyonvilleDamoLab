@@ -1,0 +1,126 @@
+
+.navbar-wrapper {
+  width: 90%;
+  z-index: 999;
+  left: 50%;
+  top: 60px;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.navbar-wrapper2 {
+  width: 100%;
+}
+
+.navbar-wrapper2 .custom-navbar{
+  width: 100%;
+  background: #F4F2D9;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 20px 40px;
+  box-sizing: border-box;
+}
+
+.navbar-wrapper2 .dropdown-content{
+  padding: 0;
+  transition: 0s;
+  background: #F4F2D9 !important;
+}
+
+
+.navbar-wrapper2 .navbar-title{
+  font-size: 30px;
+  color: #8E9774;
+  margin-top: 4px;
+  justify-content: flex-end;
+  overflow: hidden;
+}
+
+.navbar-wrapper .navbar-wrapper .logo {
+  width: 140px;
+  background: #fff;
+  box-shadow: 0 0 5px #ccc;
+  border-radius: 50%;
+  margin-left: 50px;
+}
+
+.navbar-wrapper .custom-navbar {
+  width: 100%;
+  border-radius: 30px;
+  background: rgba(73, 78, 62, 0.8);
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 5px 20px;
+  box-sizing: border-box;
+}
+
+.custom-navbar .custom-navbar-left {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.custom-navbar .login-btn {
+  width: 150px;
+  height: 40px;
+  color: #fff;
+  font-weight: bolder;
+  background: #8C9472;
+  border-radius: 40px;
+  box-shadow: 0 0 15px #000;
+  border: none;
+  margin-top: 4px;
+}
+
+.custom-navbar .hamburger-icon {
+  min-width: 40px;
+  min-height: 40px;
+  max-width: 40px;
+  max-height: 40px;
+  border-radius: 50%;
+  background: #AEB597;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  margin-top: 4px;
+}
+
+.custom-navbar .hamburger-icon > div {
+  width: 50%;
+  height: 5px;
+  margin: 1.5px 0;
+  background: #F4F3DA;
+  border-radius: 50%;
+}
+
+.custom-navbar .menu-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-left: 10px;
+}
+
+.dropdown-content.show {
+  transition: all;
+  visibility: visible !important;
+  opacity: 1 !important;
+  background: none !important;
+  box-shadow: none !important;
+  font-size: 1.125rem;
+}
+
+.dropdown-content.relative-position {
+  position: relative !important;
+}
+
+.dropdown-content.hide {
+  transition: 3s;
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
