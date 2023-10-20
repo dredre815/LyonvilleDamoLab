@@ -1,0 +1,1578 @@
+.things-to-do * {
+  box-sizing: border-box;
+}
+
+
+.things-to-do {
+
+  background: #8A946E;
+
+  width: 100%;
+  position: relative;
+  overflow: hidden; 
+}
+
+
+
+.things-to-do .overlap-wrapper {
+  /* background-color: #ffffff;
+  
+  position: absolute;
+  overflow: hidden;
+  width: 100%;
+  display: flex; */
+   position: absolute;
+  width: 100%;
+  top: 0;
+  height: 100%;
+  
+}
+
+.things-to-do .title {
+  left: -123px;
+  position: relative;
+}
+
+.things-to-do .overlap-8 {
+  height: 186px;
+  position: relative;
+  width: 925px;
+  top:0px;
+}
+
+.things-to-do .rectangle-8 {
+  background-color: #acb594;
+  height: 30px;
+  left: 166px;
+  position: absolute;
+  top: 129px;
+  width: 332px;
+}
+
+.things-to-do .text-wrapper-10 {
+  /* color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 80px;
+  font-weight: 700;
+  height: 186px;
+  left: 0; 
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 0;
+  width: 925px; */
+  position: absolute;
+  top: 69px;
+}
+
+
+.things-to-do .overlap {
+  /* height: 2412px;
+  left: -77px;
+  position: relative;
+  
+  width: 100%; */
+  /* position: absolute;
+  width: 100%;
+  top: 0;
+  height: 100%; */
+  width: 1320px;
+  margin: 0 auto;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.things-to-do .background {
+  /* height: 2412px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  
+  width: 100%; */
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+
+.things-to-do .overlap-group {
+  height: 2344px;
+  left: 0px;
+  position: relative;
+  
+  width: 100%;
+  /* width: 100%;
+  height: 100%; */
+  display: flex;
+}
+
+.things-to-do .rectangle {
+  /* height: 1284px; */
+  left: 0;
+  position: absolute;
+  top: 0;
+  
+  width: 100%;
+  /* width: 100%;
+  height: 100%; */
+  display: flex;
+}
+
+.things-to-do .image {
+  height: 1443px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  
+  width: 100%;
+  /* width: 100%;
+  height: 100%; */
+  display: flex;
+}
+
+/* .things-to-do .group {
+  height: 1074px;
+  left: 0;
+  position: absolute;
+  top: 1284px;
+  
+  width: 100%;
+
+  display: flex;
+} */
+
+.things-to-do .calendar-of-events {
+  /* height: 460px;
+  left: 100px;
+  position: absolute;
+  top: 1827px;
+  
+  width: 97%;
+  overflow-x: auto;
+  overflow-y: hidden; */
+  overflow-x: auto;
+  overflow-y: hidden;
+  display: flex;
+  height: 100%;
+  position: relative;
+  top: 0px;
+}
+
+.things-to-do .div {
+  height: 470px;
+  position: relative;
+  left: 0px;
+  /* width: 2040px; */
+  width: 100%;
+  top: -135px;
+}
+
+.things-to-do .overlap-2 {
+  height: 460px;
+  left: 0px;
+  position: absolute;
+  top: 0;
+  /* width: 1589px; */
+  width: 100%;
+}
+
+.things-to-do .img {
+  height: 43px;
+  left: 390px;
+  position: relative;
+  top: -37px;
+  width: 941px;
+}
+
+.things-to-do .overlap-3 {
+  height: 460px;
+  left: 0px;
+  position: absolute;
+  top: 0;
+  width: 971px;
+}
+
+.things-to-do .text-wrapper {
+  /* color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 64px;
+  font-weight: 600;
+  height: 146px;
+  left: 0px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: relative;
+  top: 31px;
+  width: 629px;
+  display: flex; */
+  left: 0px;
+  /* letter-spacing: 0; */
+  line-height: 100px;
+  position: relative;
+  top: 31px;
+  /* width: 629px; */
+  display: flex;
+
+}
+
+.things-to-do .open-garden-day {
+  height: 328px;
+  left: 38px;
+  position: absolute;
+  top: 129px;
+  width: 404px;
+}
+
+.things-to-do .overlap-group-2 {
+  height: 328px;
+  position: relative;
+  width: 400px;
+}
+
+.things-to-do .group-2 {
+  height: 328px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 253px;
+}
+
+.things-to-do .group-3 {
+  height: 328px;
+  left: 54px;
+  position: absolute;
+  top: 0;
+  width: 347px;
+}
+
+/* .things-to-do .rectangle-2 {
+  border: 2px solid;
+  border-color: #ffffff;
+  border-radius: 40px;
+  height: 57px;
+  left: 53px;
+  position: absolute;
+  top: 249px;
+  width: 295px;
+}
+
+.things-to-do .discover-more {
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  height: 58px;
+  left: 107px;
+  letter-spacing: 0;
+  line-height: 65.5px;
+  position: absolute;
+  top: 248px;
+  white-space: nowrap;
+  width: 204px;
+} */
+
+.things-to-do .rectangle-2 {
+  position: absolute;
+  top: 249px;
+  left: 53px;
+  width: 295px;
+  height: 57px;
+  border: 2px solid #ffffff;
+  border-radius: 40px;
+  background-color: transparent; 
+  cursor: pointer;
+  text-align: center; 
+}
+
+.things-to-do .rectangle-2:hover {
+  background-color: #2C370BCC
+}
+
+.things-to-do .discover-more {
+  display: block;
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 57px; 
+  white-space: nowrap;
+}
+
+
+
+.things-to-do .image-2 {
+  height: 162px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 66px;
+  width: 323px;
+}
+
+.things-to-do .text-wrapper-2 {
+  color: #f4f3d8;
+  font-family: "Roboto", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  height: 70px;
+  left: 66px;
+  letter-spacing: 0;
+  line-height: 49.5px;
+  position: absolute;
+  top: 0;
+  width: 270px;
+}
+
+.things-to-do .woodchop {
+  height: 331px;
+  left: 567px;
+  position: absolute;
+  top: 129px;
+  width: 404px;
+}
+
+.things-to-do .overlap-4 {
+  height: 331px;
+  position: relative;
+  width: 400px;
+}
+
+.things-to-do .group-4 {
+  height: 328px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 253px;
+}
+
+.things-to-do .group-5 {
+  height: 328px;
+  left: 54px;
+  position: absolute;
+  top: 4px;
+  width: 347px;
+}
+
+.things-to-do .rectangle-3 {
+  position: absolute;
+  top: 249px;
+  left: 53px;
+  width: 295px;
+  height: 57px;
+  border: 2px solid #ffffff;
+  border-radius: 40px;
+  background-color: transparent; 
+  cursor: pointer;
+  text-align: center; 
+}
+
+.things-to-do .rectangle-3:hover {
+  background-color: #2C370BCC
+}
+
+.things-to-do .discover-more-2 {
+  display: block;
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 57px; 
+  white-space: nowrap;
+}
+
+/* .things-to-do .rectangle-3 {
+  border: 2px solid;
+  border-color: #ffffff;
+  border-radius: 40px;
+  height: 57px;
+  left: 53px;
+  position: absolute;
+  top: 253px;
+  width: 295px;
+}
+
+.things-to-do .discover-more-2 {
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  height: 58px;
+  left: 108px;
+  letter-spacing: 0;
+  line-height: 65.5px;
+  position: absolute;
+  top: 252px;
+  white-space: nowrap;
+  width: 205px;
+} */
+
+.things-to-do .image-3 {
+  height: 162px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 323px;
+}
+
+.things-to-do .text-wrapper-3 {
+  color: #f4f3d8;
+  font-family: "Roboto", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  height: 70px;
+  left: 130px;
+  letter-spacing: 0;
+  line-height: 49.5px;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.things-to-do .bakeoff {
+  height: 331px;
+  left: 1096px;
+  position: absolute;
+  top: 129px;
+  width: 404px;
+}
+
+.things-to-do .rectangle-4 {
+  position: absolute;
+  top: 249px;
+  left: 103px;
+}
+
+.things-to-do .rectangle-4:hover {
+  background-color: #2C370BCC
+}
+
+.things-to-do .discover-more-3 {
+  display: block;
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 57px; 
+  white-space: nowrap;
+}
+
+
+
+.things-to-do .event {
+  height: 162px;
+  left: 38px;
+  position: absolute;
+  top: 70px;
+  width: 324px;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+.things-to-do .text-wrapper-4 {
+  color: #f4f3d8;
+  font-family: "Roboto", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  height: 69px;
+  left: 140px;
+  letter-spacing: 0;
+  line-height: 49.5px;
+  position: relative;
+  top: 0;
+  width: 250px;
+}
+
+
+.new-event-1 {
+  position: absolute;
+  height: 331px;
+  width: 404px;
+  top: 129px;
+}
+
+
+.new-event-1 {
+    left: 1600px;  
+}
+
+
+.things-to-do .historical-walk {
+  height: 191px;
+  left: 0px;
+  position: relative;
+  top: -333px;
+  /* width: 1667px; */
+  width: 100%;
+  display: flex;
+}
+
+.things-to-do .explore-lyonville-s {
+  /* color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  height: 170px;
+  left: 714px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 144px;
+  width: 651px; */
+  left: 714px;
+  /* letter-spacing: 0;
+  line-height: 50px; */
+  position: absolute;
+  /* text-align: left; */
+  top: 133px;
+  width: 651px;
+}
+
+.things-to-do .text-wrapper-5 {
+  /* color: #1e1e1e;
+  font-family: "Roboto", Helvetica;
+  font-size: 64px;
+  font-weight: 600;
+  height: 125px;
+  left: 780px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  top: -11px;
+  width: 578px; */
+  left: 870px;
+  /* letter-spacing: 0; */
+  line-height: 100px;
+  position: absolute;
+  top: -11px;
+}
+
+/* .things-to-do .box {
+  height: 57px;
+  left: 841px;
+  position: absolute;
+  top: 329px;
+  width: 382px;
+} */
+
+.things-to-do .box {
+  position: absolute;
+  top: 304px;
+  left: 610px;
+}
+
+.things-to-do .box:hover {
+  background-color: #636B4E; 
+}
+
+.things-to-do .text-wrapper-6 {
+  display: block;
+  color: #636B4E;
+  font-family: "Roboto", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 50px;
+  width: 100%;
+  white-space: nowrap;
+
+}
+
+.things-to-do .box:hover .text-wrapper-6{
+  color: #ffffff; 
+}
+
+
+
+.things-to-do .overlap-group-wrapper {
+
+  position: relative;
+  top: -442px;
+  left: -269px;
+}
+
+.things-to-do .overlap-group-wrapper:hover .text-wrapper-9 {
+  color: #ffffff; 
+}
+
+.things-to-do .overlap-group-wrapper:hover {
+  background-color: #636B4E; 
+}
+
+.things-to-do .text-wrapper-9 {
+  display: block;
+  color: #636B4E;
+  font-family: "Roboto", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 50.5px;
+  text-align: center;
+  width: 100%;
+  white-space: nowrap;
+}
+
+
+
+
+.things-to-do .picture {
+  height: 401px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 712px;
+}
+
+.things-to-do .overlap-5 {
+  height: 401px;
+  position: relative;
+}
+
+.things-to-do .rectangle-6 {
+  height: 351px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 666px;
+}
+
+.things-to-do .image-4 {
+  height: 312px;
+  left: 0px;
+  position: absolute;
+  top: 31px;
+}
+
+.things-to-do .walk-ride-picnic {
+  /* height: 1103px;
+  left: 20px;
+  position: absolute;
+  top: 230px; */
+  display: flex;
+  width: 100%;
+  margin-top: 50px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: #1d1f1a;
+  /* font-family: Roboto; */
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 14px; /* 17.5% */
+  padding-top: 10px;
+  padding-right: 15px;
+  padding-bottom: 20px;
+  padding-left: 25px;
+  
+}
+
+.things-to-do .picture-2 {
+  /* height: 350px;
+  left: 638px;
+  position: absolute;
+  top: 59px;
+  width: 933px; */
+  display: flex;
+  width: 100%;
+  /* max-width: 933px; */
+  padding-top: 10px;
+  padding-right: 0px;
+  padding-bottom: 20px;
+  padding-left: 455px;
+}
+
+.things-to-do .left-group {
+  height: 350px;
+  left: 0;
+  /* position: absolute;
+  top: 0;
+  width: 420px; */
+  /* padding-top: 10px;
+  padding-right: 15px;
+  padding-bottom: 20px; */
+  width: 420px;
+  padding-top: 10px;
+  padding-right: 0px;
+  padding-bottom: 20px;
+  padding-left: 21px;
+}
+
+.things-to-do .text-wrapper-7 {
+  color: #000000;
+  font-family: "Jost", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  height: 42px;
+  /* left: 0; */
+  letter-spacing: 0;
+  line-height: 49.5px;
+  /* position: absolute; */
+  text-align: center;
+  /* top: 308px; */
+  white-space: nowrap;
+  width: 418px;
+  /* padding-top: 10px; */
+  padding-right: 15px;
+  padding-bottom: 20px;
+  /* padding-left: 25px; */
+}
+
+.things-to-do .nature {
+  width: auto;
+  border-radius: 10px;
+  height: 251px;
+}
+
+.things-to-do .right-group {
+  height: 350px;
+  /* left: 515px; */
+  /* position: absolute; */
+  /* top: 0; */
+  padding-top: 10px;
+  padding-right: 15px;
+  padding-bottom: 20px;
+  padding-left: 25px;
+  width: 420px;
+}
+
+.things-to-do .nature-2 {
+  width: auto;
+  border-radius: 10px;
+  height: 251px;
+}
+
+.things-to-do .overlap-6 {
+  height: 326px;
+  left: -26px;
+  position: relative;
+  top: -386px;
+  width: 476px;
+}
+
+.things-to-do .p {
+  /* color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  height: 252px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 50px; */
+  position: absolute;
+  top: 89px;
+  width: 501px;
+}
+
+.things-to-do .text-wrapper-8 {
+  /* color: #1e1e1e;
+  font-family: "Roboto", Helvetica;
+  font-size: 64px;
+  font-weight: 500;
+  height: 92px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;*/
+  top: 0; /*
+  white-space: nowrap;
+  width: 542px; */
+}
+
+
+.things-to-do .map {
+  height: 667px;
+  left: 0;
+  position: relative;
+  top: -345px;
+  width: 100%;
+}
+
+.things-to-do .overlap-7 {
+  height: 667px;
+  position: relative;
+}
+
+.things-to-do .rectangle-7 {
+  height: 73px;
+  left: 0px;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.things-to-do .image-5 {
+  height: 630px;
+  left: 0px;
+  position: absolute;
+  top: 33px;
+  /* width: 1598px; */
+  width: 100%;
+}
+
+
+
+
+.things-to-do .shadow-header {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.01) 14.93%, rgba(0, 0, 0, 0) 100%);
+  height: 133px;
+  left: 0px;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 764px) {
+  .things-to-do * {
+    box-sizing: border-box;
+  }
+  
+  
+  .things-to-do {
+  
+    background: #8A946E;
+  
+    width: 100%;
+    position: relative;
+    overflow: hidden; 
+  }
+  
+  /* .things-to-do {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  } */
+  
+  .things-to-do .overlap-wrapper {
+    /* background-color: #ffffff;
+    
+    position: absolute;
+    overflow: hidden;
+    width: 100%;
+    display: flex; */
+     position: absolute;
+    width: 100%;
+    top: 0;
+    height: 100%;
+    
+  }
+  
+  .things-to-do .title {
+    position: relative;
+    width: 206px;
+    left: 9px;
+  }
+  
+  .things-to-do .overlap-8 {
+    height: 133px;
+    position: relative;
+    width: 362px;
+    top: 0px;
+  }
+  
+  .things-to-do .rectangle-8 {
+    background-color: #acb594;
+    height: 29px;
+    left: 109px;
+    position: absolute;
+    top: 35px;
+    width: 225px;
+  }
+  
+  .things-to-do .text-wrapper-10 {
+    color: #000000;
+    font-family: "Roboto", Helvetica;
+    font-size: 41px;
+    font-weight: 700;
+    height: 69px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 14px;
+    position: absolute;
+    top: 0;
+    width: 366px;
+  
+  }
+  
+  
+  .things-to-do .overlap {
+    /* height: 2412px;
+    left: -77px;
+    position: relative;
+    
+    width: 100%; */
+    /* position: absolute;
+    width: 100%;
+    top: 0;
+    height: 100%; */
+    width: 360px;
+    margin: 0 auto;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  
+  .things-to-do .background {
+    /* height: 2412px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    
+    width: 100%; */
+    width: 100%;
+    height: 100%;
+    display: flex;
+  }
+  
+  .things-to-do .overlap-group {
+    height: 1832px;
+    left: 0px;
+    position: relative;
+    
+    width: 100%;
+    /* width: 100%;
+    height: 100%; */
+    display: flex;
+  }
+  
+  .things-to-do .rectangle {
+    /* height: 1284px; */
+    left: 0;
+    position: absolute;
+    top: 0;
+    
+    width: 100%;
+    /* width: 100%;
+    height: 100%; */
+    display: flex;
+  }
+  
+  .things-to-do .image {
+    height: 1443px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    
+    width: 100%;
+    /* width: 100%;
+    height: 100%; */
+    display: flex;
+  }
+  
+  /* .things-to-do .group {
+    height: 1074px;
+    left: 0;
+    position: absolute;
+    top: 1284px;
+    
+    width: 100%;
+
+    display: flex;
+  }
+   */
+  .things-to-do .calendar-of-events {
+
+    overflow-x: auto;
+    overflow-y: hidden;
+    display: flex;
+    height: 345px;
+    position: relative;
+    top: -119px;
+  }
+  
+  .things-to-do .div {
+    height: 470px;
+    position: relative;
+    left: 0px;
+    /* width: 2040px; */
+    width: 100%;
+    top: -135px;
+  }
+  
+  .things-to-do .overlap-2 {
+    height: 460px;
+    left: 0px;
+    position: absolute;
+    top: 0;
+    /* width: 1589px; */
+    width: 100%;
+  }
+  
+  .things-to-do .img {
+    height: 43px;
+    left: 228px;
+    position: relative;
+    top: -163px;
+    width: 131px;
+  }
+  
+  .things-to-do .overlap-3 {
+    height: 460px;
+    left: 0px;
+    position: absolute;
+    top: 0;
+    width: 971px;
+  }
+  
+  .things-to-do .text-wrapper {
+    height: 56px;
+    left: -11px;
+
+    position: relative;
+    top: -159px;
+  }
+  
+  .things-to-do .open-garden-day {
+    height: 328px;
+    left: 38px;
+    position: absolute;
+    top: 133px;
+    width: 404px;
+  }
+  
+  .things-to-do .overlap-group-2 {
+    height: 328px;
+    position: relative;
+    width: 400px;
+  }
+  
+  .things-to-do .group-2 {
+    height: 328px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 253px;
+  }
+  
+  .things-to-do .group-3 {
+    height: 328px;
+    left: 54px;
+    position: absolute;
+    top: 0;
+    width: 347px;
+  }
+  
+  .things-to-do .rectangle-2 {
+    border: 2px solid;
+    border-color: #ffffff;
+    border-radius: 40px;
+    height: 57px;
+    left: 53px;
+    position: absolute;
+    top: 249px;
+    width: 295px;
+  }
+  
+  .things-to-do .discover-more {
+    color: #ffffff;
+    font-family: "Jost", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    height: 58px;
+    left: 41px;
+    letter-spacing: 0;
+    line-height: 65.5px;
+    position: absolute;
+    top: -7px;
+    white-space: nowrap;
+    width: 204px;
+  }
+
+  .things-to-do .image-2 {
+    height: 162px;
+    left: 39px;
+    object-fit: cover;
+    position: absolute;
+    top: 66px;
+    width: 323px;
+  }
+  
+  .things-to-do .text-wrapper-2 {
+    color: #f4f3d8;
+    font-family: "Roboto", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    height: 70px;
+    left: 66px;
+    letter-spacing: 0;
+    line-height: 49.5px;
+    position: absolute;
+    top: 0;
+    width: 270px;
+  }
+  
+  .things-to-do .woodchop {
+    height: 331px;
+    left: 567px;
+    position: absolute;
+    top: 129px;
+    width: 404px;
+  }
+  
+  .things-to-do .overlap-4 {
+    height: 331px;
+    position: relative;
+    width: 400px;
+  }
+  
+  .things-to-do .group-4 {
+    height: 328px;
+    left: 0;
+    position: absolute;
+    top: 4px;
+    width: 253px;
+  }
+  
+  .things-to-do .group-5 {
+    height: 328px;
+    left: 54px;
+    position: absolute;
+    top: 4px;
+    width: 347px;
+  }
+  
+  .things-to-do .rectangle-3 {
+    border: 2px solid;
+    border-color: #ffffff;
+    border-radius: 40px;
+    height: 57px;
+    left: 53px;
+    position: absolute;
+    top: 253px;
+    width: 295px;
+  }
+  
+  .things-to-do .discover-more-2 {
+    color: #ffffff;
+    font-family: "Jost", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    height: 58px;
+    left: 41px;
+    letter-spacing: 0;
+    line-height: 65.5px;
+    position: absolute;
+    top: -7px;
+    white-space: nowrap;
+    width: 204px;
+  }
+  
+  .things-to-do .image-3 {
+    height: 162px;
+    left: 39px;
+    object-fit: cover;
+    position: absolute;
+    top: 70px;
+    width: 323px;
+  }
+  
+  .things-to-do .text-wrapper-3 {
+    color: #f4f3d8;
+    font-family: "Roboto", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    height: 70px;
+    left: 130px;
+    letter-spacing: 0;
+    line-height: 49.5px;
+    position: absolute;
+    top: 0;
+    width: 250px;
+  }
+  
+  .things-to-do .bakeoff {
+    height: 331px;
+    left: 1096px;
+    position: absolute;
+    top: 129px;
+    width: 404px;
+  }
+  
+  .things-to-do .rectangle-4 {
+    left: 111px;
+    position: absolute;
+    top: 243px;
+  }
+  
+  .things-to-do .discover-more-3 {
+    color: #ffffff;
+    font-family: "Jost", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    height: 58px;
+    left: 41px;
+    letter-spacing: 0;
+    line-height: 65.5px;
+    position: absolute;
+    top: -7px;
+    white-space: nowrap;
+    width: 204px;
+  }
+  
+  .things-to-do .event {
+    height: 162px;
+    left: 38px;
+    position: absolute;
+    top: 70px;
+    width: 324px;
+  }
+  
+  .things-to-do .text-wrapper-4 {
+    color: #f4f3d8;
+    font-family: "Roboto", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    height: 70px;
+    left: 130px;
+    letter-spacing: 0;
+    line-height: 49.5px;
+    position: absolute;
+    top: 0;
+    width: 250px;
+  }
+  
+  
+  .new-event-1 {
+    position: absolute;
+    height: 331px;
+    width: 404px;
+    top: 129px;
+  }
+  
+  
+  .new-event-1 {
+      left: 1600px;  
+  }
+  
+  
+  .things-to-do .historical-walk {
+    height: 191px;
+    left: 0px;
+    position: relative;
+    top: -333px;
+    /* width: 1667px; */
+    width: 100%;
+    display: flex;
+  }
+  
+  .things-to-do .explore-lyonville-s {
+    left: -3px;
+    letter-spacing: 0;
+    line-height: 38px;
+    position: absolute;
+    text-align: left;
+    top: -55px;
+    width: 303px;
+  }
+  
+  .things-to-do .text-wrapper-5 {
+    left: 15px;
+
+    position: absolute;
+    top: -134px;
+  }
+  
+
+  .things-to-do .overlap-group-wrapper {
+    position: relative;
+    top: -641px;
+    left: -201px;
+    width: 176px;
+  
+  }
+
+  .things-to-do .text-wrapper-9 {
+    display: block;
+    color: #636B4E;
+    font-family: "Roboto", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 28.5px;
+    text-align: center;
+    width: 100%;
+    white-space: nowrap;
+  }
+
+
+  .things-to-do .box {
+    position: absolute;
+    top: 153px;
+    left: -215px;
+    width: 150px;
+  }
+
+  .things-to-do .box:active {
+    background-color: #636B4E; 
+  }
+  
+  .things-to-do .overlap-group-wrapper:active {
+    background-color: #636B4E; 
+  }
+
+
+  .things-to-do .box:active .text-wrapper-6 {
+    color: #ffffff; 
+  }
+  
+  .things-to-do .overlap-group-wrapper:active .text-wrapper-9 {
+    color: #ffffff; 
+  }
+
+  .things-to-do .rectangle-2:active {
+    background-color: #2C370BCC; 
+  }
+  .things-to-do .rectangle-3:active {
+    background-color: #2C370BCC; 
+  }
+  .things-to-do .rectangle-4:active {
+    background-color: #2C370BCC; 
+  }
+
+  .things-to-do .text-wrapper-6 {
+    display: block;
+    color: #636B4E;
+    font-family: "Roboto", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 26px;
+    width: 100%;
+    white-space: nowrap;
+  }
+
+  .things-to-do .picture {
+    height: 401px;
+    left: 0;
+    position: absolute;
+    top: 127px;
+    width: 693px;
+  }
+  
+  .things-to-do .overlap-5 {
+    height: 401px;
+    position: relative;
+  }
+  
+  .things-to-do .rectangle-6 {
+    height: 163px;
+    left: -172px;
+    position: absolute;
+    top: 0;
+    width: 666px;
+  
+  }
+  
+  .things-to-do .image-4 {
+    height: 148px;
+    left: 0px;
+    position: absolute;
+    top: 200px;
+  
+  }
+  
+  .things-to-do .walk-ride-picnic {
+    /* height: 1103px;
+    left: 20px;
+    position: absolute;
+    top: 230px; */
+    display: flex;
+    width: 100%;
+    margin-top: 75px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #1d1f1a;
+    /* font-family: Roboto; */
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 14px;
+    padding-top: 56px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+    padding-left: 25px;
+    
+  }
+  
+  .things-to-do .picture-2 {
+    /* height: 350px;
+    left: 638px;
+    position: absolute;
+    top: 59px;
+    width: 933px; */
+    display: flex;
+    width: 100%;
+    /* max-width: 933px; */
+    /* padding-top: 3px; */
+    padding-right: 0px;
+    padding-bottom: 4px;
+    padding-left: 0px;
+  }
+  
+  .things-to-do .left-group {
+    height: 129px;
+    left: 0;
+    /* position: absolute;
+    top: 0;
+    width: 420px; */
+    /* padding-top: 10px;
+    padding-right: 15px;
+    padding-bottom: 20px; */
+    width: 171px;
+    padding-top: 48px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+  }
+  
+  .things-to-do .text-wrapper-7 {
+    color: #000000;
+    font-family: "Jost", Helvetica;
+    font-size: 15px;
+    font-weight: 400;
+    height: 37px;
+    /* left: 0; */
+    letter-spacing: 0;
+    line-height: 49.5px;
+    /* position: absolute; */
+    text-align: center;
+    /* top: 308px; */
+    white-space: nowrap;
+    width: 221px;
+    /* padding-top: 10px; */
+    padding-right: 79px;
+    padding-bottom: 22px;
+  }
+  
+  .things-to-do .nature {
+    height: 93px;
+    left: -25px;
+    /* -o-object-fit: cover;
+    object-fit: cover; */
+    position: relative;
+    /* padding-top: 10px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+    padding-left: 0px; */
+    top: 0px;
+    width: auto;
+  }
+  
+  .things-to-do .right-group {
+    height: 290px;
+    /* left: 515px;
+    position: absolute;
+    top: 0; */
+    padding-top: 48px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+    padding-left: 0px;
+    width: 178px;
+  }
+  
+  .things-to-do .nature-2 {
+    height: 93px;
+    left: -27px;
+    /* -o-object-fit: cover;
+    object-fit: cover; */
+    position: relative;
+    /* padding-top: 10px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+    padding-left: 0px; */
+    top: 0px;
+    width: auto;
+  }
+  
+  .things-to-do .overlap-6 {
+    height: 326px;
+    left: 0px;
+    position: relative;
+    top: -466px;
+  }
+  
+  .things-to-do .p {
+    left: -26px;
+    letter-spacing: 0;
+    line-height: 34px;
+    position: absolute;
+    top: 35px;
+    width: 311px;
+  }
+  
+  .things-to-do .text-wrapper-8 {
+    left: -19px;
+
+    position: absolute;
+    top: -14px;
+
+    width: 360px;
+  
+  }
+  
+
+  
+  .things-to-do .map {
+    height: 179px;
+    left: 0;
+    position: relative;
+    top: -480px;
+    width: 100%;
+  }
+  
+  .things-to-do .overlap-7 {
+    height: 181px;
+    position: relative;
+  }
+  
+  .things-to-do .rectangle-7 {
+    height: 73px;
+    left: 0px;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+  
+  .things-to-do .image-5 {
+    height: 154px;
+    left: 0px;
+    position: absolute;
+    top: 33px;
+    /* width: 1598px; */
+    width: 100%;
+  }
+  
+  
+  
+  
+  .things-to-do .shadow-header {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.01) 14.93%, rgba(0, 0, 0, 0) 100%);
+    height: 133px;
+    left: 0px;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+
+}
